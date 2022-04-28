@@ -2265,17 +2265,17 @@ amazon_multi_arrow_2	2262		sfx/player-skills_sd	skill\amazon\multi2.flac	0	0	0	0
 amazon_multi_arrow_3	2263		sfx/player-skills_sd	skill\amazon\multi3.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	0	0	4	1	15	90	80	0	0	1	0	0	-1	-1	-1	0	0	
 amazon_multi_arrow_4	2264		sfx/player-skills_sd	skill\amazon\multi4.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	0	0	4	1	15	90	80	0	0	1	0	0	-1	-1	-1	0	0	
 amazon_multi_arrow_5	2265		sfx/player-skills_sd	skill\amazon\multi5.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	0	0	4	1	15	90	80	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_appear	2266	amazon_valkyrie_appear_hd	sfx/player-skills_sd	skill\amazon\valkyrieappear1.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	0	0	0	1	15	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_attack_1	2267	amazon_valkyrie_attack_hd1	sfx/npc_sd	skill\amazon\valkyrieattack1.flac	0	0	0	0	0	255	255	100	100	4	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_attack_2	2268		sfx/npc_sd	skill\amazon\valkyrieattack2.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_attack_3	2269		sfx/npc_sd	skill\amazon\valkyrieattack3.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_attack_4	2270		sfx/npc_sd	skill\amazon\valkyrieattack4.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_hit_1	2271	amazon_valkyrie_hit_hd1	sfx/npc_sd	skill\amazon\valkyriehit1.flac	0	0	0	0	0	255	255	100	100	4	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_hit_2	2272		sfx/npc_sd	skill\amazon\valkyriehit2.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_hit_3	2273		sfx/npc_sd	skill\amazon\valkyriehit3.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_hit_4	2274		sfx/npc_sd	skill\amazon\valkyriehit4.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_cast	2275	amazon_valkyrie_cast_hd	sfx/player-skills_sd	skill\amazon\valkyriecast.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	0	0	0	1	15	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_death	2276	amazon_valkyrie_death_hd_1	sfx/npc_sd	skill\amazon\valkyriedeath1.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	1	15	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_appear	2266	amazon_valkyrie_appear_hd	sfx/player-skills_sd	skill\amazon\valkyrieappear1.flac	0	0	0	0	0	142	179	100	100	0	0	0	0	0	0	0	0	0	1	15	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_attack_1	2267	amazon_valkyrie_attack_hd1	sfx/combat/weapon_sd	skill\amazon\valkyrieattack1.flac	0	0	0	0	0	50	80	100	100	4	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_attack_2	2268		sfx/combat/weapon_sd	skill\amazon\valkyrieattack2.flac	0	0	0	0	0	50	80	100	100	0	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_attack_3	2269		sfx/combat/weapon_sd	skill\amazon\valkyrieattack3.flac	0	0	0	0	0	50	80	100	100	0	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_attack_4	2270		sfx/combat/weapon_sd	skill\amazon\valkyrieattack4.flac	0	0	0	0	0	50	80	100	100	0	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_hit_1	2271	amazon_valkyrie_hit_hd1	sfx/combat/impacts_sd	skill\amazon\valkyriehit1.flac	0	0	0	0	0	50	80	100	100	4	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_hit_2	2272		sfx/combat/impacts_sd	skill\amazon\valkyriehit2.flac	0	0	0	0	0	50	80	100	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_hit_3	2273		sfx/combat/impacts_sd	skill\amazon\valkyriehit3.flac	0	0	0	0	0	50	80	100	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_hit_4	2274		sfx/combat/impacts_sd	skill\amazon\valkyriehit4.flac	0	0	0	0	0	50	80	100	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_cast	2275	amazon_valkyrie_cast_hd	sfx/player-skills_sd	skill\amazon\valkyriecast.flac	0	0	0	0	0	160	201	100	100	0	0	0	0	0	0	0	0	0	1	15	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_death	2276	amazon_valkyrie_death_hd_1	sfx/combat/impacts_sd	skill\amazon\valkyriedeath1.flac	0	0	0	0	0	63	100	100	100	0	0	0	0	0	1	0	0	0	1	15	90	100	0	0	1	0	0	-1	-1	-1	0	0	
 assassin_bladefury_hit	2277	assassin_bladefury_hit_hd	sfx/player-skills_sd	skill\assassin\bladefuryhit.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	0	0	-1	1	15	90	100	0	0	1	0	0	-1	-1	-1	0	0	
 assassin_bladefury_throw_1	2278	assassin_bladefury_throw_hd_3	sfx/player-skills_sd	skill\assassin\bladefury1.flac	0	0	0	0	0	255	255	100	100	3	0	0	0	0	0	0	0	3	1	15	90	100	0	0	1	0	0	-1	-1	-1	0	0	
 assassin_bladefury_throw_2	2279		sfx/player-skills_sd	skill\assassin\bladefury2.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	0	0	0	3	1	15	90	100	0	0	1	0	0	-1	-1	-1	0	0	
@@ -6493,8 +6493,8 @@ scene_arcane_hd	6490		sfx/ambient/scene-2d_hd	ambient\scene\scene_arcane_hd.flac
 amazon_eyeofzeus_hd	6491		sfx/player-skills_hd	skill\amazon\eyeofzeus_hd.flac	0	0	0	0	0	155	199	100	100	0	0	0	0	0	0	0	0	0	1	25	90	100	0	0	1	0	0	-1	-1	-1	0	0	
 amazon_fistofares_hd	6492		sfx/player-skills_hd	skill\amazon\fistofares_hd.flac	0	0	0	0	0	201	255	100	100	0	0	0	0	0	0	0	0	0	1	15	90	100	0	0	1	0	0	-1	-1	-1	0	0	
 amazon_handofathena_hd	6493		sfx/player-skills_hd	skill\amazon\handofathena_hd.flac	0	0	0	0	0	201	255	100	100	0	0	0	0	0	0	0	0	0	1	15	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_appear_hd	6494		sfx/player-skills_hd	skill\amazon\valkyrieappear_hd1.flac	0	0	0	0	0	201	255	100	100	0	0	0	0	0	0	0	0	0	1	25	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_cast_hd	6495		sfx/player-skills_hd	skill\amazon\valkyriecast_hd.flac	0	0	0	0	0	202	255	100	100	0	0	0	0	0	0	0	0	0	1	25	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_appear_hd	6494		sfx/player-skills_hd	skill\amazon\valkyrieappear_hd1.flac	0	0	0	0	0	142	160	100	100	0	0	0	0	0	0	0	0	0	1	25	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_cast_hd	6495		sfx/player-skills_hd	skill\amazon\valkyriecast_hd.flac	0	0	0	0	0	100	127	97	101	0	0	0	0	0	0	0	0	0	1	25	90	100	0	0	1	0	0	-1	-1	-1	0	0	
 object_bonfire_embers_loop_hd	6496		sfx/ambient/environment-objects_hd	ambient\event\bonfire_embers_loop_hd.flac	0	0	0	0	0	112	113	100	100	0	0	0	12	12	0	0	0	0	6	0	60	100	0	0	1	0	0	-1	-1	-1	0	0	
 object_charsi_forge_active_loop_hd	6497		sfx/ambient/environment-objects_hd	ambient\event\charsi_forge_active_loop_hd.flac	0	0	0	0	0	63	63	100	110	0	0	0	12	12	0	0	0	0	6	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
 item_auto_gold_large_pickup_hd	6498		sfx/items_hd	item\Item_auto_gold_large_pile.flac	0	0	0	0	0	255	255	100	101	0	0	0	0	0	0	1	0	4	1	0	70	100	0	0	0	0	0	-1	-1	-1	0	0	
@@ -10703,17 +10703,17 @@ amazon_multi_arrow_hd2	10700		sfx/player-skills_hd	skill\amazon\multi_hd2.flac	0
 amazon_multi_arrow_hd3	10701		sfx/player-skills_hd	skill\amazon\multi_hd3.flac	0	0	0	0	0	201	255	94	104	0	0	0	0	0	0	0	0	4	1	25	90	80	0	0	1	0	0	-1	-1	-1	0	0	
 amazon_multi_arrow_hd4	10702		sfx/player-skills_hd	skill\amazon\multi_hd4.flac	0	0	0	0	0	201	255	94	104	0	0	0	0	0	0	0	0	4	1	25	90	80	0	0	1	0	0	-1	-1	-1	0	0	
 amazon_multi_arrow_hd5	10703		sfx/player-skills_hd	skill\amazon\multi_hd5.flac	0	0	0	0	0	201	255	94	104	0	0	0	0	0	0	0	0	4	1	0	90	80	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_attack_hd1	10704		sfx/npc_hd	skill\amazon\valkyrieattack_hd1.flac	0	0	0	0	0	255	255	100	100	4	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_attack_hd2	10705		sfx/npc_hd	skill\amazon\valkyrieattack_hd2.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_attack_hd3	10706		sfx/npc_hd	skill\amazon\valkyrieattack_hd3.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_attack_hd4	10707		sfx/npc_hd	skill\amazon\valkyrieattack_hd4.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_death_hd_1	10708		sfx/npc_hd	skill\amazon\valkyriedeath_hd1.flac	0	0	0	0	0	255	255	100	100	3	100	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_death_hd_3	10709		sfx/npc_hd	skill\amazon\valkyriedeath_hd3.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_death_hd_2	10710		sfx/npc_hd	skill\amazon\valkyriedeath_hd2.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_hit_hd1	10711		sfx/npc_hd	skill\amazon\valkyriehit_hd1.flac	0	0	0	0	0	255	255	100	100	4	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_hit_hd2	10712		sfx/npc_hd	skill\amazon\valkyriehit_hd2.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_hit_hd3	10713		sfx/npc_hd	skill\amazon\valkyriehit_hd3.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
-amazon_valkyrie_hit_hd4	10714		sfx/npc_hd	skill\amazon\valkyriehit_hd4.flac	0	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_attack_hd1	10704		sfx/combat/weapon_hd	skill\amazon\valkyrieattack_hd1.flac	0	0	0	0	0	50	80	97	100	4	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_attack_hd2	10705		sfx/combat/weapon_hd	skill\amazon\valkyrieattack_hd2.flac	0	0	0	0	0	50	80	97	100	0	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_attack_hd3	10706		sfx/combat/weapon_hd	skill\amazon\valkyrieattack_hd3.flac	0	0	0	0	0	50	80	97	100	0	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_attack_hd4	10707		sfx/combat/weapon_hd	skill\amazon\valkyrieattack_hd4.flac	0	0	0	0	0	50	80	97	100	0	0	0	0	1	0	0	0	4	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_death_hd_1	10708		sfx/combat/impacts_hd	skill\amazon\valkyriedeath_hd1.flac	0	0	0	0	0	63	100	97	100	3	100	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_death_hd_3	10709		sfx/combat/impacts_hd	skill\amazon\valkyriedeath_hd3.flac	0	0	0	0	0	50	89	97	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_death_hd_2	10710		sfx/combat/impacts_hd	skill\amazon\valkyriedeath_hd2.flac	0	0	0	0	0	50	89	97	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_hit_hd1	10711		sfx/combat/impacts_hd	skill\amazon\valkyriehit_hd1.flac	0	0	0	0	0	50	80	97	100	4	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_hit_hd2	10712		sfx/combat/impacts_hd	skill\amazon\valkyriehit_hd2.flac	0	0	0	0	0	50	80	97	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_hit_hd3	10713		sfx/combat/impacts_hd	skill\amazon\valkyriehit_hd3.flac	0	0	0	0	0	50	80	97	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
+amazon_valkyrie_hit_hd4	10714		sfx/combat/impacts_hd	skill\amazon\valkyriehit_hd4.flac	0	0	0	0	0	50	80	97	100	0	0	0	0	0	1	0	0	0	1	0	90	100	0	0	1	0	0	-1	-1	-1	0	0	
 amazon_cast_poison_hd1	10715		sfx/player-skills_hd	skill\amazon\poisoncast_hd1.flac	0	0	0	0	0	125	159	99	101	3	0	0	0	0	0	0	0	0	1	25	90	100	0	0	1	0	0	-1	-1	-1	0	0	
 amazon_cast_poison_hd2	10716		sfx/player-skills_hd	skill\amazon\poisoncast_hd2.flac	0	0	0	0	0	125	159	99	101	0	0	0	0	0	0	0	0	0	1	25	90	100	0	0	1	0	0	-1	-1	-1	0	0	
 amazon_cast_poison_hd3	10717		sfx/player-skills_hd	skill\amazon\poisoncast_hd3.flac	0	0	0	0	0	125	159	99	101	0	0	0	0	0	0	0	0	0	1	25	90	100	0	0	1	0	0	-1	-1	-1	0	0	
