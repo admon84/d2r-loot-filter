@@ -55,7 +55,7 @@ This is a D2R mod that modifies item labels and provides a psuedo loot filter.
 
 # Disclaimer
 
-Although this uses the D2R's built in modding support, Blizzard's stance on using mods online is not well defined. Use it online at your own risk.
+Although this uses D2R's built-in modding system, Blizzard's stance on using mods online is not well defined. Use it online at your own risk.
 
 # Installation
 
@@ -67,4 +67,4 @@ Although this uses the D2R's built in modding support, Blizzard's stance on usin
 
 # Credits
 
-[AlexisEvo/d2r-loot-filter](https://github.com/AlexisEvo/d2r-loot-filter)
+Fork of original work in [AlexisEvo/d2r-loot-filter](https://github.com/AlexisEvo/d2r-loot-filter)
