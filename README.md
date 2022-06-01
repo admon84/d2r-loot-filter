@@ -1,12 +1,61 @@
 # D2R loot filter
 
-This is a mod for D2R that makes it easier to quickly discern which items you would want to pick up, essentially implementing a pseudo loot filter. 
+This is a D2R mod that modifies item labels and provides a psuedo loot filter.
 
-![ber](https://user-images.githubusercontent.com/10291543/165676115-cc6c2472-2a84-4aa2-94cf-c87148db153d.png)
+### Common item labels
+- Health Potions: `HP1` to `HP5`
+- Mana Potions: `MP1` to `MP5`
+- Rejuvination Potions: `+Rejuv` and `+Full Rejuv`
+- Stamina Potion: `Stam!`
+- Thawing Potion: `Thaw!`
+- Antidote: `Anti!`
+- Tome of Town Portal: `!TP!`
+- Scroll of Town Portal: `TP!`
+- Tome of Identify: `!ID!`
+- Scroll of Identify: `ID!`
+- Gold: `<Amount> g`
+
+![common](https://user-images.githubusercontent.com/10291543/171337986-5cbd98a9-3268-478e-bdc7-749eefc91487.png)
+
+### Colorful gem labels
+- Flawless Gems: `+Flawless <Gem>`
+- Perfect Gems: `+Perfect <Gem>`
+
+![gems](https://user-images.githubusercontent.com/10291543/171337977-2d5fba39-8a2b-486d-9cd1-58d4151f801a.png)
+
+### Big hitboxes
+- High Runes
+- Diablo Essence
+- Baal Essence
+- Diadem
+
+![ber](https://user-images.githubusercontent.com/10291543/171337964-c67233fd-9217-41ce-aa57-f75593429bd2.png)
+
+### Light beam effect
+- High Runes
+- Uber Keys
+
+### Essence labels
+- Twisted Essence of Suffering: `Andy Essence` (Duriel drops it too)
+- Charged Essence of Hatred: `Meph Essence`
+- Burning Essence of Terror: `Diablo Essence`
+- Festering Essence of Destruction: `Baal Essence`
+
+### Blank labels
+- Arrows
+- Bolts
+- Strangling Gas Potion
+- Fulminating Potion
+- Choking Gas Potion
+- Exploding Potion
+- Rancid Gas Potion
+- Oil Potion
+
+![hidden](https://user-images.githubusercontent.com/10291543/171337953-9e7944ac-2ff2-4a2f-bf65-8ccea8e0e8f7.png)
 
 # Disclaimer
 
-Use at your own risk.
+Although this uses the D2R's built in modding support, Blizzard's stance on using mods online is not well defined. Use it online at your own risk.
 
 # Installation
 
@@ -18,4 +67,4 @@ Use at your own risk.
 
 # Credits
 
-[AlexisEvo](https://github.com/AlexisEvo/d2r-loot-filter)
+[AlexisEvo/d2r-loot-filter](https://github.com/AlexisEvo/d2r-loot-filter)
