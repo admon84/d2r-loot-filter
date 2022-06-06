@@ -1,4 +1,4 @@
-# D2R loot filter
+# D2R Loot Filter
 
 This is a D2R mod that modifies item labels and provides a psuedo loot filter.
 
@@ -57,13 +57,40 @@ This is a D2R mod that modifies item labels and provides a psuedo loot filter.
 
 Although this uses D2R's built-in modding system, Blizzard's stance on using mods online is not well defined. Use it online at your own risk.
 
-# Installation
+# Download
 
-1. Download the repo as a zip using the Code button at the top of the page
-2. Create a "mods" directory in your D2 installation folder and copy the lootfilter directory into "mods". 
-3. If done correctly, the directory layout should match https://i.imgur.com/hZAvJI6.png
+https://github.com/admon84/d2r-loot-filter/archive/refs/heads/main.zip
+
+# Install Mpq
+
+Standard install method for most people.
+
+1. [Download](#download) and extract the mod files (anywhere)
+2. Create a "mods" folder in your D2R installation directory
+3. Copy the extracted "lootfilter" folder into "mods"
+    - If done correctly, the structure should match https://i.imgur.com/hZAvJI6.png
 4. Edit game settings in your battle.net launcher and add `-mod lootfilter -txt` to your parameters, https://i.imgur.com/LG9Fpn2.png
-5. Launch the game and enjoy a more pleasant D2R experience 🥰
+    - If your parameters includes -direct, follow the "Install into Extracted Data" steps instead
+5. Launch the game and enjoy
+
+# Install into Extracted Data
+
+If you are using `-direct -txt` in your launch parameters, follow these steps to add the mod files on top of the extracted data.
+
+1. [Download](#download) and extract the mod files (anywhere)
+2. Copy the "global", "hd" and "local" folders from lootfilter\lootfilter.mpq\Data into your D2R\Data folder. Select overwrite all when prompted
+5. Launch the game and enjoy
+
+# Development
+
+If you want to make changes to the loot filter, you can extract data and perform a full installation.
+
+1. Download CascView from http://www.zezula.net/en/casc/main.html
+2. In CascView, Open Storage and select your D2R folder
+3. Expand data/data on the left and extract "global", "hd" and "local" folders into your D2R\Data folder
+4. [Download](#download) and extract the mod files (anywhere)
+5. Copy the "global", "hd" and "local" folders from lootfilter\lootfilter.mpq\Data into your D2R\Data folder. Select overwrite all when prompted
+6. Edit your game shortcut to add `-direct -txt` to the end. If using battle.net launcher, you can set this in game properties. https://i.imgur.com/kgP3VFZ.png
 
 # Credits
 
