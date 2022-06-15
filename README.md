@@ -1,6 +1,6 @@
 # D2R Loot Filter
 
-This is a D2R mod that modifies item labels and provides a psuedo loot filter.
+This is a D2R mod that modifies the label of items on the ground and provides a psuedo loot filter.
 
 ### Common item labels
 - Health Potions: `HP1` to `HP5`
@@ -55,7 +55,9 @@ This is a D2R mod that modifies item labels and provides a psuedo loot filter.
 
 # Disclaimer
 
-Although this uses D2R's built-in modding system, Blizzard's stance on using mods online is not well defined. Use it online at your own risk.
+**Recommended for single player use only!**
+
+This mod has not been permitted for online use. Use online at your own risk! 
 
 # Download
 
