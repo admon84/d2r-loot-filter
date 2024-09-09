@@ -371,7 +371,7 @@
     "jaJP": "チェイン・メイル",
     "ptBR": "[fs]Cota de Malha",
     "ruRU": "[ms]кольчужный доспех",
-    "zhCN": "锁子甲"
+    "zhCN": "锁链甲"
   },
   {
     "id": 1944,
@@ -4043,7 +4043,7 @@
     "jaJP": "バーブド・クラブ",
     "ptBR": "[fs]Clava Farpada",
     "ruRU": "[fs]колючая дубина",
-    "zhCN": "钉刺尖棒"
+    "zhCN": "尖刺棒"
   },
   {
     "id": 2163,
@@ -4745,7 +4745,7 @@
   {
     "id": 2209,
     "Key": "rvs",
-    "enUS": "ÿc;+ÿc0Rejuv",
+    "enUS": "ÿc;oÿc0Rejuv",
     "zhTW": "活力藥水",
     "deDE": "Regenerationstrank",
     "esES": "Poción rejuvenecedora",
@@ -4762,7 +4762,7 @@
   {
     "id": 2210,
     "Key": "rvl",
-    "enUS": "ÿc;+ÿc0Full Rejuv",
+    "enUS": "ÿc;oÿc0Full Rejuv",
     "zhTW": "全效活力藥水",
     "deDE": "starker Regenerationstrank",
     "esES": "Poción rejuvenecedora total",
@@ -5170,7 +5170,7 @@
   {
     "id": 2239,
     "Key": "gzv",
-    "enUS": "ÿc;+ÿc0Flawless ÿc;Amethystÿc0",
+    "enUS": "ÿc;oÿc0Flawless ÿc;Amethystÿc0",
     "zhTW": "無瑕紫寶石",
     "deDE": "makelloser Amethyst",
     "esES": "Amatista sin defectos",
@@ -5187,7 +5187,7 @@
   {
     "id": 2240,
     "Key": "gpv",
-    "enUS": "ÿc;+ÿc0Perfect ÿc;Amethystÿc0",
+    "enUS": "ÿc;oÿc0Perfect ÿc;Amethystÿc0",
     "zhTW": "完美紫寶石",
     "deDE": "perfekter Amethyst",
     "esES": "Amatista perfecta",
@@ -5255,7 +5255,7 @@
   {
     "id": 2244,
     "Key": "gly",
-    "enUS": "ÿc9+ÿc0Flawless ÿc9Topazÿc0",
+    "enUS": "ÿc9oÿc0Flawless ÿc9Topazÿc0",
     "zhTW": "無瑕黃寶石",
     "deDE": "makelloser Topas",
     "esES": "Topacio sin defectos",
@@ -5272,7 +5272,7 @@
   {
     "id": 2245,
     "Key": "gpy",
-    "enUS": "ÿc9+ÿc0Perfect ÿc9Topazÿc0",
+    "enUS": "ÿc9oÿc0Perfect ÿc9Topazÿc0",
     "zhTW": "完美黃寶石",
     "deDE": "perfekter Topas",
     "esES": "Topacio perfecto",
@@ -5323,7 +5323,7 @@
   {
     "id": 2249,
     "Key": "glb",
-    "enUS": "ÿc3+ÿc0Flawless ÿc3Sapphireÿc0",
+    "enUS": "ÿc3oÿc0Flawless ÿc3Sapphireÿc0",
     "zhTW": "無瑕藍寶石",
     "deDE": "makelloser Saphir",
     "esES": "Zafiro sin defectos",
@@ -5340,7 +5340,7 @@
   {
     "id": 2250,
     "Key": "gpb",
-    "enUS": "ÿc3+ÿc0Perfect ÿc3Sapphireÿc0",
+    "enUS": "ÿc3oÿc0Perfect ÿc3Sapphireÿc0",
     "zhTW": "完美藍寶石",
     "deDE": "perfekter Saphir",
     "esES": "Zafiro perfecto",
@@ -5391,7 +5391,7 @@
   {
     "id": 2253,
     "Key": "glg",
-    "enUS": "ÿc<+ÿc0Flawless ÿc<Emeraldÿc0",
+    "enUS": "ÿc<oÿc0Flawless ÿc<Emeraldÿc0",
     "zhTW": "無瑕綠寶石",
     "deDE": "makelloser Smaragd",
     "esES": "Esmeralda sin defectos",
@@ -5408,7 +5408,7 @@
   {
     "id": 2255,
     "Key": "gpg",
-    "enUS": "ÿc<+ÿc0Perfect ÿc<Emeraldÿc0",
+    "enUS": "ÿc<oÿc0Perfect ÿc<Emeraldÿc0",
     "zhTW": "完美綠寶石",
     "deDE": "perfekter Smaragd",
     "esES": "Esmeralda perfecta",
@@ -5459,7 +5459,7 @@
   {
     "id": 2259,
     "Key": "glr",
-    "enUS": "ÿc1+ÿc0Flawless ÿc1Rubyÿc0",
+    "enUS": "ÿc1oÿc0Flawless ÿc1Rubyÿc0",
     "zhTW": "無瑕紅寶石",
     "deDE": "makelloser Rubin",
     "esES": "Rubí sin defectos",
@@ -5476,7 +5476,7 @@
   {
     "id": 2260,
     "Key": "gpr",
-    "enUS": "ÿc1+ÿc0Perfect ÿc1Rubyÿc0",
+    "enUS": "ÿc1oÿc0Perfect ÿc1Rubyÿc0",
     "zhTW": "完美紅寶石",
     "deDE": "perfekter Rubin",
     "esES": "Rubí perfecto",
@@ -5527,7 +5527,7 @@
   {
     "id": 2264,
     "Key": "glw",
-    "enUS": "ÿcT+ÿc0Flawless ÿcTDiamondÿc0",
+    "enUS": "ÿcToÿc0Flawless ÿcTDiamondÿc0",
     "zhTW": "無瑕鑽石",
     "deDE": "makelloser Diamant",
     "esES": "Diamante sin defectos",
@@ -5544,7 +5544,7 @@
   {
     "id": 2265,
     "Key": "gpw",
-    "enUS": "ÿcT+ÿc0Perfect ÿcTDiamondÿc0",
+    "enUS": "ÿcToÿc0Perfect ÿcTDiamondÿc0",
     "zhTW": "完美鑽石",
     "deDE": "perfekter Diamant",
     "esES": "Diamante perfecto",
@@ -5782,7 +5782,7 @@
   {
     "id": 2280,
     "Key": "skl",
-    "enUS": "ÿc8+ÿc0Flawless ÿc8Skullÿc0",
+    "enUS": "ÿc8oÿc0Flawless ÿc8Skullÿc0",
     "zhTW": "無瑕骷髏石",
     "deDE": "makelloser Schädel",
     "esES": "Cráneo sin defectos",
@@ -5799,7 +5799,7 @@
   {
     "id": 2281,
     "Key": "skz",
-    "enUS": "ÿc8+ÿc0Perfect ÿc8Skullÿc0",
+    "enUS": "ÿc8oÿc0Perfect ÿc8Skullÿc0",
     "zhTW": "完美骷髏石",
     "deDE": "perfekter Schädel",
     "esES": "Cráneo perfecto",
@@ -7817,7 +7817,7 @@
     "jaJP": "トゥース",
     "ptBR": "Dente",
     "ruRU": "[ms]зубов[fs]зубов[ns]зубов[pl]зубов",
-    "zhCN": "克牙"
+    "zhCN": "尖牙"
   },
   {
     "id": 2515,
@@ -8242,7 +8242,7 @@
     "jaJP": "ホーバーク",
     "ptBR": "Cota de Malha",
     "ruRU": "Хауберк",
-    "zhCN": "锁甲"
+    "zhCN": "半身甲"
   },
   {
     "id": 2540,
@@ -8417,7 +8417,7 @@
   {
     "id": 2550,
     "Key": "Diadem",
-    "enUS": "\n   Diadem   \n",
+    "enUS": "\nDiadem\n",
     "zhTW": "權冠",
     "deDE": "Diadem",
     "esES": "[fs]Diadema",
@@ -8429,7 +8429,7 @@
     "jaJP": "ダイアデム",
     "ptBR": "Argola",
     "ruRU": "[fs]диадема",
-    "zhCN": "冠冕"
+    "zhCN": "权冠"
   },
   {
     "id": 2551,
@@ -11540,7 +11540,7 @@
     "jaJP": "ミラブレガのダイアデム",
     "ptBR": "Diadema de Milabrega",
     "ruRU": "Диадема Милабреги",
-    "zhCN": "米拉伯佳的冠冕"
+    "zhCN": "米拉伯佳的权冠"
   },
   {
     "id": 10145,
@@ -11931,7 +11931,7 @@
     "jaJP": "狂戦士のホーバーク",
     "ptBR": "Cota de Malha do Berserker",
     "ruRU": "Хауберк берсерка",
-    "zhCN": "狂战士的锁甲"
+    "zhCN": "狂战士的半身甲"
   },
   {
     "id": 10168,
@@ -12480,7 +12480,7 @@
   {
     "id": 11166,
     "Key": "bet",
-    "enUS": "\n   Diablo Essence   \n",
+    "enUS": "\nDiablo Essence\n",
     "zhTW": "燃燒的恐懼精華",
     "deDE": "Brennende Essenz des Schreckens",
     "esES": "Esencia del terror ardiente",
@@ -12497,7 +12497,7 @@
   {
     "id": 11167,
     "Key": "fed",
-    "enUS": "\n   Baal Essence   \n",
+    "enUS": "\nBaal Essence\n",
     "zhTW": "潰爛的毀滅精華",
     "deDE": "Eiternde Essenz der Zerstörung",
     "esES": "Esencia de la destrucción infecta",
@@ -15467,7 +15467,7 @@
     "jaJP": "グレート・ホーバーク",
     "ptBR": "[fs]Grande Cota de Malha",
     "ruRU": "[ms]тяжелый панцирь",
-    "zhCN": "大链甲衫"
+    "zhCN": "大半身甲"
   },
   {
     "id": 20356,
@@ -24695,7 +24695,7 @@
     "koKR": "아리앗의 얼굴",
     "plPL": "Twarz Arreat",
     "esMX": "Rostro de Arreat",
-    "jaJP": "アリエトの面頬",
+    "jaJP": "アリートの面頬",
     "ptBR": "Face de Arreat",
     "ruRU": "Лик Арреата",
     "zhCN": "亚瑞特之貌"
@@ -26008,5 +26008,107 @@
     "ptBR": "Moe",
     "ruRU": "Мо",
     "zhCN": "莫伊"
+  },
+  {
+    "id": 27345,
+    "Key": "Cold Rupture",
+    "enUS": "Cold Rupture",
+    "zhTW": "冰寒裂縫",
+    "deDE": "Der Kältespalt",
+    "esES": "Ruptura fría",
+    "frFR": "La Rupture glaciale",
+    "itIT": "Fenditura gelida",
+    "koKR": "추위의 파열",
+    "plPL": "Lodowa wyrwa ",
+    "esMX": "La ruptura gélida",
+    "jaJP": "甘美なる凍気",
+    "ptBR": "A Ruptura Gélida",
+    "ruRU": "Ледяной разлом",
+    "zhCN": "寒冰裂口"
+  },
+  {
+    "id": 27346,
+    "Key": "Flame Rift",
+    "enUS": "Flame Rift",
+    "zhTW": "火焰裂隙",
+    "deDE": "Der Flammenspalt",
+    "esES": "Falla de llamas",
+    "frFR": "La Faille ardente",
+    "itIT": "Faglia infuocata",
+    "koKR": "불길의 균열",
+    "plPL": "Ognista szczelina",
+    "esMX": "La fisura de llama",
+    "jaJP": "穿つ炎",
+    "ptBR": "A Fenda Flamejante",
+    "ruRU": "Пламенный портал",
+    "zhCN": "火焰裂隙"
+  },
+  {
+    "id": 27347,
+    "Key": "Crack of the Heavens",
+    "enUS": "Crack of the Heavens",
+    "zhTW": "天堂裂擊",
+    "deDE": "Der Himmelsriss",
+    "esES": "Chasquido de los cielos",
+    "frFR": "La Fracture des Cieux",
+    "itIT": "Spaccatura celeste",
+    "koKR": "천상의 틈",
+    "plPL": "Niebiańskie pęknięcie",
+    "esMX": "La grieta de los cielos",
+    "jaJP": "天外の亀裂",
+    "ptBR": "A Rachadura do Paraíso",
+    "ruRU": "Небесная трещина",
+    "zhCN": "天堂裂痕"
+  },
+  {
+    "id": 27348,
+    "Key": "Rotting Fissure",
+    "enUS": "Rotting Fissure",
+    "zhTW": "腐敗裂痕",
+    "deDE": "Die Fäulniskluft",
+    "esES": "Fisura putrefacta",
+    "frFR": "La Fissure putride",
+    "itIT": "Squarcio putrido",
+    "koKR": "부패의 분열",
+    "plPL": "Gnijąca rozpadlina",
+    "esMX": "La fisura putrefacta",
+    "jaJP": "腐れる傷跡",
+    "ptBR": "A Fissura Putrefata",
+    "ruRU": "Гниющий излом",
+    "zhCN": "腐烂裂迹"
+  },
+  {
+    "id": 27349,
+    "Key": "Bone Break",
+    "enUS": "Bone Break",
+    "zhTW": "分筋裂骨",
+    "deDE": "Der Knochenbruch",
+    "esES": "Rotura de huesos",
+    "frFR": "Le Briseur d’os ",
+    "itIT": "Frattura spaccaossa",
+    "koKR": "뼈의 분쇄",
+    "plPL": "Kościane przełamanie ",
+    "esMX": "El rompehuesos",
+    "jaJP": "骨食み",
+    "ptBR": "O Rompimento de Ossos",
+    "ruRU": "Перелом костей",
+    "zhCN": "白骨裂纹"
+  },
+  {
+    "id": 27350,
+    "Key": "Black Cleft",
+    "enUS": "Black Cleft",
+    "zhTW": "漆黑裂口",
+    "deDE": "Die Schwarze Bresche",
+    "esES": "Hendidura negra",
+    "frFR": "La Fente noire",
+    "itIT": "Crepaccio nero",
+    "koKR": "칠흑의 천공",
+    "plPL": "Czarny rozłam",
+    "esMX": "La grieta de oscuridad",
+    "jaJP": "黒き裂目",
+    "ptBR": "A Fratura Sombria",
+    "ruRU": "Черная расщелина",
+    "zhCN": "漆黑裂痕"
   }
 ]

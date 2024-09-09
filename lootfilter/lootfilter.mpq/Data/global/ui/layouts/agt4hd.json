@@ -1,0 +1,2010 @@
+{
+  "type": "VideoOptionsPanel",
+  "name": "agt4",
+  "fields": {
+    "priority": 9003,
+    "rect": "$OptionsPanelRect",
+    "anchor": {
+      "x": 0.5
+    }
+  },
+  "children": [
+    {
+      "type": "ImageWidget",
+      "name": "ScrollBarBackground",
+      "fields": {
+        "rect": "$OptionsScrollBarBackgroundRect",
+        "anchor": {
+          "x": 1
+        },
+        "filename": "PauseMenu\\VerticalScroll"
+      },
+      "children": [
+        {
+          "type": "ScrollControllerWidget",
+          "name": "ScrollController",
+          "fields": {
+            "rect": "$OptionsScrollBarRect",
+            "anchor": {
+              "x": 1
+            },
+            "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
+            "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
+            "barFilepath": "PauseMenu\\VerticalIndicator",
+            "viewName": "ScrollView",
+            "wheelScrollSound": "cursor_scroll_hd",
+            "buttonScrollSound": "cursor_scroll_hd"
+          }
+        }
+      ]
+    },
+    {
+      "type": "ScrollViewWidget",
+      "name": "ScrollView",
+      "fields": {
+        "fitToParent": true,
+        "scrollControllerName": "ScrollController"
+      },
+      "children": [
+        {
+          "type": "TableWidget",
+          "name": "OptionsTable",
+          "fields": {
+            "columns": [
+              {
+                "width": "$OptionsPanelWidth",
+                "alignment": {
+                  "h": "fit",
+                  "v": "fit"
+                }
+              }
+            ],
+            "rowHeight": 100
+          },
+          "children": [
+            {
+              "type": "TableRowWidget",
+              "name": "Headers",
+              "fields": {
+                "rect": {
+                  "height": 76
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "FieldTitle",
+                  "fields": {
+                    "text": "Cube Recipes (Standard)",
+                    "anchor": {
+                      "x": 0.5
+                    },
+                    "style": {
+                      "fontColor": "$FontColorGoldYellow",
+                      "pointSize": 40,
+                      "alignment": {
+                        "h": "center",
+                        "v": "center"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R1",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 240
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R2",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 200
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R3",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 360
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R4",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R5",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R6",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R7",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R8",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 120
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R9",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 120
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R10",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 120
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R11",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 120
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R12",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R13",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R14",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R15",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R16",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 80
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R17",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 80
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R18",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 80
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R19",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 80
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R20",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 80
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R21",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 80
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R22",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 80
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R23",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 80
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R24",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 120
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R25",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R26",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 200
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R27",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 200
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R28",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 200
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R29",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 200
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R30",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 200
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R31",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R32",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 120
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R33",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 120
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R34",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 200
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R35",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 200
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R36",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 200
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R37",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 80
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R38",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 120
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R39",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 120
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R40",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R41",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 120
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R42",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 120
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R43",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 120
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R44",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R45",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R46",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 80
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R47",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R48",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 160
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT3R49",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

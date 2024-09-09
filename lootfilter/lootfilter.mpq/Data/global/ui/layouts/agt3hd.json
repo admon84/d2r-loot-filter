@@ -1,0 +1,216 @@
+{
+  "type": "VideoOptionsPanel",
+  "name": "agt3",
+  "fields": {
+    "priority": 9003,
+    "rect": "$OptionsPanelRect",
+    "anchor": {
+      "x": 0.5
+    }
+  },
+  "children": [
+    {
+      "type": "ImageWidget",
+      "name": "ScrollBarBackground",
+      "fields": {
+        "rect": "$OptionsScrollBarBackgroundRect",
+        "anchor": {
+          "x": 1
+        },
+        "filename": "PauseMenu\\VerticalScroll"
+      },
+      "children": [
+        {
+          "type": "ScrollControllerWidget",
+          "name": "ScrollController",
+          "fields": {
+            "rect": "$OptionsScrollBarRect",
+            "anchor": {
+              "x": 1
+            },
+            "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
+            "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
+            "barFilepath": "PauseMenu\\VerticalIndicator",
+            "viewName": "ScrollView",
+            "wheelScrollSound": "cursor_scroll_hd",
+            "buttonScrollSound": "cursor_scroll_hd"
+          }
+        }
+      ]
+    },
+    {
+      "type": "ScrollViewWidget",
+      "name": "ScrollView",
+      "fields": {
+        "fitToParent": true,
+        "scrollControllerName": "ScrollController"
+      },
+      "children": [
+        {
+          "type": "TableWidget",
+          "name": "OptionsTable",
+          "fields": {
+            "columns": [
+              {
+                "width": "$OptionsPanelWidth",
+                "alignment": {
+                  "h": "fit",
+                  "v": "fit"
+                }
+              }
+            ],
+            "rowHeight": 100
+          },
+          "children": [
+            {
+              "type": "TableRowWidget",
+              "name": "Headers",
+              "fields": {
+                "rect": {
+                  "height": 76
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "FieldTitle",
+                  "fields": {
+                    "text": "Rune List",
+                    "anchor": {
+                      "x": 0.5
+                    },
+                    "style": {
+                      "fontColor": "$FontColorGoldYellow",
+                      "pointSize": 40,
+                      "alignment": {
+                        "h": "center",
+                        "v": "center"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 315.0
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT2R1",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 378.0
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT2R2",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TableRowWidget",
+              "name": "RowTab",
+              "fields": {
+                "rect": {
+                  "height": 409.5
+                }
+              },
+              "children": [
+                {
+                  "type": "TextBoxWidget",
+                  "name": "TextBox",
+                  "fields": {
+                    "text": "@strAGT2R3",
+                    "rect": {
+                      "x": 0,
+                      "y": 72
+                    },
+                    "style": {
+                      "fontColor": "$FontColorLightGold",
+                      "pointSize": 26,
+                      "spacing": {
+                        "leading": 0.9,
+                        "kerning": 0.94
+                      },
+                      "alignment": {
+                        "h": "left",
+                        "v": "center"
+                      },
+                      "options": {
+                        "lineWrap": true,
+                        "newlineHandling": "standard",
+                        "pipeCharacterBehavior": "handle"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
