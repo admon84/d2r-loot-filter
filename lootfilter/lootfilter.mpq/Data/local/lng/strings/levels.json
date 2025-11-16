@@ -4745,7 +4745,7 @@
   {
     "id": 22766,
     "Key": "EnteringTheBloodMoor",
-    "enUS": "Entering The Blood Moor (1|36|67)",
+    "enUS": "Entering The Blood Moor",
     "zhTW": "進入鮮血荒地",
     "deDE": "Jetzt: Das Blutmoor",
     "esES": "Entrando en la Landa de Sangre",
@@ -4762,7 +4762,7 @@
   {
     "id": 22767,
     "Key": "EnteringTheColdPlains",
-    "enUS": "Entering The Cold Plains (2|36|68)",
+    "enUS": "Entering The Cold Plains",
     "zhTW": "進入冰冷之原",
     "deDE": "Jetzt: Die Kalte Ebene",
     "esES": "Entrando en las Llanuras Frías",
@@ -4779,7 +4779,7 @@
   {
     "id": 22768,
     "Key": "EnteringTheStonyField",
-    "enUS": "Entering The Stony Field (4|37|68)",
+    "enUS": "Entering The Stony Field",
     "zhTW": "進入亂石曠野",
     "deDE": "Jetzt: Das Feld der Steine",
     "esES": "Entrando en el Campo Pedregoso",
@@ -4796,7 +4796,7 @@
   {
     "id": 22769,
     "Key": "EnteringTheDarkWood",
-    "enUS": "Entering The Dark Wood (5|38|68)",
+    "enUS": "Entering The Dark Wood",
     "zhTW": "進入黑暗森林",
     "deDE": "Jetzt: Der Dunkelwald",
     "esES": "Entrando en el Bosque Oscuro",
@@ -4813,7 +4813,7 @@
   {
     "id": 22770,
     "Key": "EnteringTheBlackMarsh",
-    "enUS": "Entering The Black Marsh (6|38|69)",
+    "enUS": "Entering The Black Marsh",
     "zhTW": "進入黑色荒地",
     "deDE": "Jetzt: Das Schwarzmoor",
     "esES": "Entrando en el Pantano Negro",
@@ -4830,7 +4830,7 @@
   {
     "id": 22771,
     "Key": "EnteringTheTamoeHighland",
-    "enUS": "Entering The Tamoe Highland (8|39|69)",
+    "enUS": "Entering The Tamoe Highland",
     "zhTW": "進入泰摩高地",
     "deDE": "Jetzt: Das Tamohochland",
     "esES": "Entrando en las Tierras Altas de Tamoe",
@@ -4847,7 +4847,7 @@
   {
     "id": 22772,
     "Key": "EnteringTheDenOfEvilInQuest",
-    "enUS": "Entering The Den of Evil (1|36|79)",
+    "enUS": "Entering The Den of Evil",
     "zhTW": "進入邪惡洞窟",
     "deDE": "Jetzt: Die Höhle des Bösen",
     "esES": "Entrando en el Cubil del Mal",
@@ -4881,7 +4881,7 @@
   {
     "id": 22774,
     "Key": "EnteringTheCaveLevel1",
-    "enUS": "Entering The Cave Level 1 (2|36|77)",
+    "enUS": "Entering The Cave Level 1",
     "zhTW": "進入洞穴第一層",
     "deDE": "Jetzt: Die Grotte, Ebene 1",
     "esES": "Entrando en el nivel 1 de la Cueva",
@@ -4898,7 +4898,7 @@
   {
     "id": 22775,
     "Key": "EnteringUndergroundPassageLevel1",
-    "enUS": "Entering The Underground Passage Level 1 (4|37|69)",
+    "enUS": "Entering The Underground Passage Level 1",
     "zhTW": "進入地底通道第一層",
     "deDE": "Jetzt: Der Unterirdische Durchgang, Ebene 1",
     "esES": "Entrando en el nivel 1 del Pasadizo Subterráneo",
@@ -4915,7 +4915,7 @@
   {
     "id": 22776,
     "Key": "EnteringTheHoleLevel1",
-    "enUS": "Entering The Hole Level 1 (5|38|80)",
+    "enUS": "Entering The Hole Level 1",
     "zhTW": "進入地洞第一層",
     "deDE": "Jetzt: Das Loch, Ebene 1",
     "esES": "Entrando en el nivel 1 del Hoyo",
@@ -4932,7 +4932,7 @@
   {
     "id": 22777,
     "Key": "EnteringThePitLevel1",
-    "enUS": "Entering The Pit Level 1 (7|39|85)",
+    "enUS": "Entering The Pit Level 1",
     "zhTW": "進入地穴第一層",
     "deDE": "Jetzt: Die Grube, Ebene 1",
     "esES": "Entrando en el nivel 1 del Foso",
@@ -4949,7 +4949,7 @@
   {
     "id": 22778,
     "Key": "EnteringTheCaveLevel2",
-    "enUS": "Entering The Cave Level 2 (2|37|78)",
+    "enUS": "Entering The Cave Level 2",
     "zhTW": "進入洞穴第二層",
     "deDE": "Jetzt: Die Grotte, Ebene 2",
     "esES": "Entrando en el nivel 2 de la Cueva",
@@ -4966,7 +4966,7 @@
   {
     "id": 22779,
     "Key": "EnteringUndergroundPassageLevel2",
-    "enUS": "Entering The Underground Passage Level 2 (4|38|85)",
+    "enUS": "Entering The Underground Passage Level 2",
     "zhTW": "進入地底通道第二層",
     "deDE": "Jetzt: Der Unterirdische Durchgang, Ebene 2",
     "esES": "Entrando en el nivel 2 del Pasadizo Subterráneo",
@@ -4983,7 +4983,7 @@
   {
     "id": 22780,
     "Key": "EnteringTheHoleLevel2",
-    "enUS": "Entering The Hole Level 2 (5|39|81)",
+    "enUS": "Entering The Hole Level 2",
     "zhTW": "進入地洞第二層",
     "deDE": "Jetzt: Das Loch, Ebene 2",
     "esES": "Entrando en el nivel 2 del Hoyo",
@@ -5000,7 +5000,7 @@
   {
     "id": 22781,
     "Key": "EnteringThePitLevel2",
-    "enUS": "Entering The Pit Level 2 (7|40|85)",
+    "enUS": "Entering The Pit Level 2",
     "zhTW": "進入地穴第二層",
     "deDE": "Jetzt: Die Grube, Ebene 2",
     "esES": "Entrando en el nivel 2 del Foso",
@@ -5017,7 +5017,7 @@
   {
     "id": 22782,
     "Key": "EnteringTheBurialGrounds",
-    "enUS": "Entering The Burial Grounds (3|36|80)",
+    "enUS": "Entering The Burial Grounds",
     "zhTW": "進入埋骨之地",
     "deDE": "Jetzt: Der Friedhof",
     "esES": "Entrando en el Cementerio",
@@ -5034,7 +5034,7 @@
   {
     "id": 22783,
     "Key": "EnteringTheCrypt",
-    "enUS": "Entering The Crypt (3|37|83)",
+    "enUS": "Entering The Crypt",
     "zhTW": "進入墓地",
     "deDE": "Jetzt: Die Krypta",
     "esES": "Entrando en la Cripta",
@@ -5051,7 +5051,7 @@
   {
     "id": 22784,
     "Key": "EnteringTheMausoleum",
-    "enUS": "Entering The Mausoleum (3|37|85)",
+    "enUS": "Entering The Mausoleum",
     "zhTW": "進入大陵墓",
     "deDE": "Jetzt: Das Mausoleum",
     "esES": "Entrando en el Mausoleo",
@@ -5085,7 +5085,7 @@
   {
     "id": 22786,
     "Key": "EnteringTheTowerCellarLevel1",
-    "enUS": "Entering The Tower Cellar Level 1 (7|38|75)",
+    "enUS": "Entering The Tower Cellar Level 1",
     "zhTW": "進入高塔地牢第一層",
     "deDE": "Jetzt: Der Turmkeller, Ebene 1",
     "esES": "Entrando en el nivel 1 del Sótano de la Torre",
@@ -5102,7 +5102,7 @@
   {
     "id": 22787,
     "Key": "EnteringTheTowerCellarLevel2",
-    "enUS": "Entering The Tower Cellar Level 2 (7|39|76)",
+    "enUS": "Entering The Tower Cellar Level 2",
     "zhTW": "進入高塔地牢第二層",
     "deDE": "Jetzt: Der Turmkeller, Ebene 2",
     "esES": "Entrando en el nivel 2 del Sótano de la Torre",
@@ -5119,7 +5119,7 @@
   {
     "id": 22788,
     "Key": "EnteringTheTowerCellarLevel3",
-    "enUS": "Entering The Tower Cellar Level 3 (7|40|77)",
+    "enUS": "Entering The Tower Cellar Level 3",
     "zhTW": "進入高塔地牢第三層",
     "deDE": "Jetzt: Der Turmkeller, Ebene 3",
     "esES": "Entrando en el nivel 3 del Sótano de la Torre",
@@ -5136,7 +5136,7 @@
   {
     "id": 22789,
     "Key": "EnteringTheTowerCellarLevel4",
-    "enUS": "Entering The Tower Cellar Level 4 (7|41|78)",
+    "enUS": "Entering The Tower Cellar Level 4",
     "zhTW": "進入高塔地牢第四層",
     "deDE": "Jetzt: Der Turmkeller, Ebene 4",
     "esES": "Entrando en el nivel 4 del Sótano de la Torre",
@@ -5153,7 +5153,7 @@
   {
     "id": 22790,
     "Key": "EnteringTheTowerCellarLevel5",
-    "enUS": "Entering The Tower Cellar Level 5 (7|42|79)",
+    "enUS": "Entering The Tower Cellar Level 5",
     "zhTW": "進入高塔地牢第五層",
     "deDE": "Jetzt: Der Turmkeller, Ebene 5",
     "esES": "Entrando en el nivel 5 del Sótano de la Torre",
@@ -5170,7 +5170,7 @@
   {
     "id": 22791,
     "Key": "EnteringTheMonasteryGate",
-    "enUS": "Entering The Monastery Gate (8|40|70)",
+    "enUS": "Entering The Monastery Gate",
     "zhTW": "進入修道院大門",
     "deDE": "Jetzt: Die Klosterpforte",
     "esES": "Entrando en las Puertas del Monasterio",
@@ -5187,7 +5187,7 @@
   {
     "id": 22792,
     "Key": "EnteringTheOuterCloister",
-    "enUS": "Entering The Outer Cloister (9|40|70)",
+    "enUS": "Entering The Outer Cloister",
     "zhTW": "進入外側迴廊",
     "deDE": "Jetzt: Das Äußere Kloster",
     "esES": "Entrando en el Claustro Exterior",
@@ -5204,7 +5204,7 @@
   {
     "id": 22793,
     "Key": "EnteringTheBarracks",
-    "enUS": "Entering The Barracks (9|40|70)",
+    "enUS": "Entering The Barracks",
     "zhTW": "進入兵營",
     "deDE": "Jetzt: Die Kaserne",
     "esES": "Entrando en los Barracones",
@@ -5221,7 +5221,7 @@
   {
     "id": 22794,
     "Key": "EnteringTheJailLevel1",
-    "enUS": "Entering The Jail Level 1 (10|41|71)",
+    "enUS": "Entering The Jail Level 1",
     "zhTW": "進入監牢第一層",
     "deDE": "Jetzt: Das Gefängnis, Ebene 1",
     "esES": "Entrando en el nivel 1 de la Cárcel",
@@ -5238,7 +5238,7 @@
   {
     "id": 22795,
     "Key": "EnteringTheJailLevel2",
-    "enUS": "Entering The Jail Level 2 (10|41|71)",
+    "enUS": "Entering The Jail Level 2",
     "zhTW": "進入監牢第二層",
     "deDE": "Jetzt: Das Gefängnis, Ebene 2",
     "esES": "Entrando en el nivel 2 de la Cárcel",
@@ -5255,7 +5255,7 @@
   {
     "id": 22796,
     "Key": "EnteringTheJailLevel3",
-    "enUS": "Entering The Jail Level 3 (10|41|71)",
+    "enUS": "Entering The Jail Level 3",
     "zhTW": "進入監牢第三層",
     "deDE": "Jetzt: Das Gefängnis, Ebene 3",
     "esES": "Entrando en el nivel 3 de la Cárcel",
@@ -5272,7 +5272,7 @@
   {
     "id": 22797,
     "Key": "EnteringTheInnerCloister",
-    "enUS": "Entering The Inner Cloister (10|41|72)",
+    "enUS": "Entering The Inner Cloister",
     "zhTW": "進入內側迴廊",
     "deDE": "Jetzt: Das Innere Kloster",
     "esES": "Entrando en el Claustro Interior",
@@ -5289,7 +5289,7 @@
   {
     "id": 22798,
     "Key": "EnteringTheCathedral",
-    "enUS": "Entering The Cathedral (11|42|72)",
+    "enUS": "Entering The Cathedral",
     "zhTW": "進入大教堂",
     "deDE": "Jetzt: Die Kathedrale",
     "esES": "Entrando en la Catedral",
@@ -5306,7 +5306,7 @@
   {
     "id": 22799,
     "Key": "EnteringTheCatacombsLevel1",
-    "enUS": "Entering The Catacombs Level 1 (11|42|72)",
+    "enUS": "Entering The Catacombs Level 1",
     "zhTW": "進入地下墓穴第一層",
     "deDE": "Jetzt: Die Katakomben, Ebene 1",
     "esES": "Entrando en el nivel 1 de las Catacumbas",
@@ -5323,7 +5323,7 @@
   {
     "id": 22800,
     "Key": "EnteringTheCatacombsLevel2",
-    "enUS": "Entering The Catacombs Level 2 (11|42|73)",
+    "enUS": "Entering The Catacombs Level 2",
     "zhTW": "進入地下墓穴第二層",
     "deDE": "Jetzt: Die Katakomben, Ebene 2",
     "esES": "Entrando en el nivel 2 de las Catacumbas",
@@ -5340,7 +5340,7 @@
   {
     "id": 22801,
     "Key": "EnteringTheCatacombsLevel3",
-    "enUS": "Entering The Catacombs Level 3 (12|43|73)",
+    "enUS": "Entering The Catacombs Level 3",
     "zhTW": "進入地下墓穴第三層",
     "deDE": "Jetzt: Die Katakomben, Ebene 3",
     "esES": "Entrando en el nivel 3 de las Catacumbas",
@@ -5357,7 +5357,7 @@
   {
     "id": 22802,
     "Key": "EnteringTheCatacombsLevel4",
-    "enUS": "Entering The Catacombs Level 4 (12|43|73)",
+    "enUS": "Entering The Catacombs Level 4",
     "zhTW": "進入地下墓穴第四層",
     "deDE": "Jetzt: Die Katakomben, Ebene 4",
     "esES": "Entrando en el nivel 4 de las Catacumbas",
@@ -5374,7 +5374,7 @@
   {
     "id": 22803,
     "Key": "EnteringTristram",
-    "enUS": "Entering Tristram (6|39|76)",
+    "enUS": "Entering Tristram",
     "zhTW": "進入崔斯特姆",
     "deDE": "Jetzt: Tristram",
     "esES": "Entrando en Tristán",
@@ -5391,7 +5391,7 @@
   {
     "id": 22804,
     "Key": "EnteringTheMooMooFarm",
-    "enUS": "Entering The Secret Cow Level (28|64|81)",
+    "enUS": "Entering The Moo Moo Farm",
     "zhTW": "進入哞哞農莊",
     "deDE": "Jetzt: Die Muh-Muh-Farm",
     "esES": "Entrando en la Granja Mu Mu",
@@ -5408,7 +5408,7 @@
   {
     "id": 22805,
     "Key": "EnteringLutGholein",
-    "enUS": "",
+    "enUS": "Entering Lut Gholein",
     "zhTW": "進入魯高因",
     "deDE": "Jetzt: Lut Gholein",
     "esES": "Entrando en Lut Gholein",
@@ -5425,7 +5425,7 @@
   {
     "id": 22806,
     "Key": "EnteringTheRockyWaste",
-    "enUS": "Entering The Rocky Waste (14|43|75)",
+    "enUS": "Entering The Rocky Waste",
     "zhTW": "進入碎石荒地",
     "deDE": "Jetzt: Die Felsige Öde",
     "esES": "Entrando en el Erial Rocoso",
@@ -5442,7 +5442,7 @@
   {
     "id": 22807,
     "Key": "EnteringTheDryHills",
-    "enUS": "Entering The Dry Hills (15|44|76)",
+    "enUS": "Entering The Dry Hills",
     "zhTW": "進入乾土高地",
     "deDE": "Jetzt: Die Verdorrten Hügel",
     "esES": "Entrando en las Colinas Áridas",
@@ -5459,7 +5459,7 @@
   {
     "id": 22808,
     "Key": "EnteringTheFarOasis",
-    "enUS": "Entering The Far Oasis (16|45|76)",
+    "enUS": "Entering The Far Oasis",
     "zhTW": "進入遙遠的綠洲",
     "deDE": "Jetzt: Die Ferne Oase",
     "esES": "Entrando en el Oasis Lejano",
@@ -5476,7 +5476,7 @@
   {
     "id": 22809,
     "Key": "EnteringTheLostCity",
-    "enUS": "Entering The Lost City (17|46|77)",
+    "enUS": "Entering The Lost City",
     "zhTW": "進入失落古城",
     "deDE": "Jetzt: Die Vergessene Stadt",
     "esES": "Entrando en la Ciudad Perdida",
@@ -5493,7 +5493,7 @@
   {
     "id": 22810,
     "Key": "EnteringTheValleyOfSnakes",
-    "enUS": "Entering The Valley of Snakes (18|46|77)",
+    "enUS": "Entering The Valley of Snakes",
     "zhTW": "進入群蛇峽谷",
     "deDE": "Jetzt: Das Tal der Schlangen",
     "esES": "Entrando en el Valle de las Serpientes",
@@ -5510,7 +5510,7 @@
   {
     "id": 22811,
     "Key": "EnteringTheCanyonOfTheMagi",
-    "enUS": "Entering The Canyon of the Magi (16|48|79)",
+    "enUS": "Entering The Canyon of the Magi",
     "zhTW": "進入賢者之谷",
     "deDE": "Jetzt: Die Schlucht der Magier",
     "esES": "Entrando en el Cañón de los Magos",
@@ -5527,7 +5527,7 @@
   {
     "id": 22812,
     "Key": "EnteringTheSewersLevel1",
-    "enUS": "Entering The Sewers Level 1 (13|43|74)",
+    "enUS": "Entering The Sewers Level 1",
     "zhTW": "進入下水道第一層",
     "deDE": "Jetzt: Die Kanalisation, Ebene 1",
     "esES": "Entrando en el nivel 1 de las Cloacas",
@@ -5544,7 +5544,7 @@
   {
     "id": 22813,
     "Key": "EnteringTheSewersLevel2",
-    "enUS": "Entering The Sewers Level 2 (13|43|74)",
+    "enUS": "Entering The Sewers Level 2",
     "zhTW": "進入下水道第二層",
     "deDE": "Jetzt: Die Kanalisation, Ebene 2",
     "esES": "Entrando en el nivel 2 de las Cloacas",
@@ -5561,7 +5561,7 @@
   {
     "id": 22814,
     "Key": "EnteringTheSewersLevel3",
-    "enUS": "Entering The Sewers Level 3 (14|44|75)",
+    "enUS": "Entering The Sewers Level 3",
     "zhTW": "進入下水道第三層",
     "deDE": "Jetzt: Die Kanalisation, Ebene 3",
     "esES": "Entrando en el nivel 3 de las Cloacas",
@@ -5595,7 +5595,7 @@
   {
     "id": 22816,
     "Key": "EnteringTheHaremLevel2",
-    "enUS": "Entering The Harem Level 2 (13|47|78)",
+    "enUS": "Entering The Harem Level 2",
     "zhTW": "進入後宮第二層",
     "deDE": "Jetzt: Der Harem, Ebene 2",
     "esES": "Entrando en el nivel 2 del Harén",
@@ -5612,7 +5612,7 @@
   {
     "id": 22817,
     "Key": "EnteringThePalaceCellarLevel1",
-    "enUS": "Entering The Palace Cellar Level 1 (13|47|78)",
+    "enUS": "Entering The Palace Cellar Level 1 ",
     "zhTW": "進入皇宮地窖第一層 ",
     "deDE": "Jetzt: Der Palastkeller, Ebene 1 ",
     "esES": "Entrando en el nivel 1 del Sótano del Palacio",
@@ -5629,7 +5629,7 @@
   {
     "id": 22818,
     "Key": "EnteringThePalaceCellarLevel2",
-    "enUS": "Entering The Palace Cellar Level 2 (13|47|78)",
+    "enUS": "Entering The Palace Cellar Level 2",
     "zhTW": "進入皇宮地窖第二層",
     "deDE": "Jetzt: Der Palastkeller, Ebene 2",
     "esES": "Entrando en el nivel 2 del Sótano del Palacio",
@@ -5646,7 +5646,7 @@
   {
     "id": 22819,
     "Key": "EnteringThePalaceCellarLevel3",
-    "enUS": "Entering The Palace Cellar Level 3 (13|48|78)",
+    "enUS": "Entering The Palace Cellar Level 3",
     "zhTW": "進入皇宮地窖第三層",
     "deDE": "Jetzt: Der Palastkeller, Ebene 3",
     "esES": "Entrando en el nivel 3 del Sótano del Palacio",
@@ -5663,7 +5663,7 @@
   {
     "id": 22820,
     "Key": "EnteringTheStonyTombLevel1",
-    "enUS": "Entering The Stony Tomb Level 1 (12|44|85)",
+    "enUS": "Entering The Stony Tomb Level 1",
     "zhTW": "進入古老石墓第一層",
     "deDE": "Jetzt: Das Steingrab, Ebene 1",
     "esES": "Entrando en el nivel 1 de la Tumba Pedregosa",
@@ -5680,7 +5680,7 @@
   {
     "id": 22821,
     "Key": "EnteringTheHallsOfTheDeadLevel1",
-    "enUS": "Entering The Halls of the Dead Level 1 (12|44|79)",
+    "enUS": "Entering The Halls of the Dead Level 1",
     "zhTW": "進入死亡之殿第一層",
     "deDE": "Jetzt: Die Hallen der Toten, Ebene 1",
     "esES": "Entrando en el nivel 1 de las Salas de la Muerte",
@@ -5697,7 +5697,7 @@
   {
     "id": 22822,
     "Key": "EnteringTheHallsOfTheDeadLevel2",
-    "enUS": "Entering The Halls of the Dead Level 2 (13|45|81)",
+    "enUS": "Entering The Halls of the Dead Level 2",
     "zhTW": "進入死亡之殿第二層",
     "deDE": "Jetzt: Die Hallen der Toten, Ebene 2",
     "esES": "Entrando en el nivel 2 de las Salas de la Muerte",
@@ -5714,7 +5714,7 @@
   {
     "id": 22823,
     "Key": "EnteringTheClawViperTempleLevel1",
-    "enUS": "Entering The Claw Viper Temple Level 1 (14|47|82)",
+    "enUS": "Entering The Claw Viper Temple Level 1",
     "zhTW": "進入利爪蛇魔神殿第一層",
     "deDE": "Jetzt: Der Tempel der Klauenvipern, Ebene 1",
     "esES": "Entrando en el nivel 1 del Templo de la Garra Viperina",
@@ -5731,7 +5731,7 @@
   {
     "id": 22824,
     "Key": "EnteringTheStonyTombLevel2",
-    "enUS": "Entering The Stony Tomb Level 2 (12|44|85)",
+    "enUS": "Entering The Stony Tomb Level 2",
     "zhTW": "進入古老石墓第二層",
     "deDE": "Jetzt: Das Steingrab, Ebene 2",
     "esES": "Entrando en el nivel 2 de la Tumba Pedregosa",
@@ -5748,7 +5748,7 @@
   {
     "id": 22825,
     "Key": "EnteringTheHallsOfTheDeadLevel3",
-    "enUS": "Entering The Halls of the Dead Level 3 (13|45|82)",
+    "enUS": "Entering The Halls of the Dead Level 3",
     "zhTW": "進入死亡之殿第三層",
     "deDE": "Jetzt: Die Hallen der Toten, Ebene 3",
     "esES": "Entrando en el nivel 3 de las Salas de la Muerte",
@@ -5765,7 +5765,7 @@
   {
     "id": 22826,
     "Key": "EnteringTheClawViperTempleLevel2",
-    "enUS": "Entering The Claw Viper Temple Level 2 (14|47|83)",
+    "enUS": "Entering The Claw Viper Temple Level 2",
     "zhTW": "進入利爪蛇魔神殿第二層",
     "deDE": "Jetzt: Der Tempel der Klauenvipern, Ebene 2",
     "esES": "Entrando en el nivel 2 del Templo de la Garra Viperina",
@@ -5782,7 +5782,7 @@
   {
     "id": 22827,
     "Key": "EnteringTheMaggotLairLevel1",
-    "enUS": "Entering The Maggot Lair Level 1 (17|45|84)",
+    "enUS": "Entering The Maggot Lair Level 1",
     "zhTW": "進入蛆蟲巢穴第一層",
     "deDE": "Jetzt: Die Wurmgruft, Ebene 1",
     "esES": "Entrando en el nivel 1 del Cubil de Gusanos",
@@ -5799,7 +5799,7 @@
   {
     "id": 22828,
     "Key": "EnteringTheMaggotLairLevel2",
-    "enUS": "Entering The Maggot Lair Level 2 (17|45|84)",
+    "enUS": "Entering The Maggot Lair Level 2",
     "zhTW": "進入蛆蟲巢穴第二層",
     "deDE": "Jetzt: Die Wurmgruft, Ebene 2",
     "esES": "Entrando en el nivel 2 del Cubil de Gusanos",
@@ -5816,7 +5816,7 @@
   {
     "id": 22829,
     "Key": "EnteringTheMaggotLairLevel3",
-    "enUS": "Entering The Maggot Lair Level 3 (17|46|85)",
+    "enUS": "Entering The Maggot Lair Level 3",
     "zhTW": "進入蛆蟲巢穴第三層",
     "deDE": "Jetzt: Die Wurmgruft, Ebene 3",
     "esES": "Entrando en el nivel 3 del Cubil de Gusanos",
@@ -5833,7 +5833,7 @@
   {
     "id": 22830,
     "Key": "EnteringTheAncientTunnels",
-    "enUS": "Entering The Ancient Tunnels (17|46|85)",
+    "enUS": "Entering The Ancient Tunnels",
     "zhTW": "進入古代通道",
     "deDE": "Jetzt: Die Alten Tunnel",
     "esES": "Entrando en los Túneles Antiguos",
@@ -5850,7 +5850,7 @@
   {
     "id": 22831,
     "Key": "EnteringTalRasha'sTomb",
-    "enUS": "Entering Tal Rasha's Tomb (17|49|80)",
+    "enUS": "Entering Tal Rasha's Tomb",
     "zhTW": "進入塔拉夏的古墓",
     "deDE": "Jetzt: Tal Rashas Grab",
     "esES": "Entrando en la Tumba de Tal Rasha",
@@ -5867,7 +5867,7 @@
   {
     "id": 22832,
     "Key": "EnteringDuriel'sLair",
-    "enUS": "Entering Tal Rasha's Chamber (17|49|80)",
+    "enUS": "Entering Tal Rasha's Chamber",
     "zhTW": "進入塔拉夏的密室",
     "deDE": "Jetzt: Tal Rashas Kammer",
     "esES": "Entrando en la Cámara de Tal Rasha",
@@ -5884,7 +5884,7 @@
   {
     "id": 22833,
     "Key": "EnteringTheArcaneSanctuary",
-    "enUS": "Entering The Arcane Sanctuary (14|48|79)",
+    "enUS": "Entering The Arcane Sanctuary",
     "zhTW": "進入秘法聖殿",
     "deDE": "Jetzt: Die Geheime Zuflucht",
     "esES": "Entrando en el Santuario Arcano",
@@ -5901,7 +5901,7 @@
   {
     "id": 22834,
     "Key": "EnteringTheKurastDocktown",
-    "enUS": "",
+    "enUS": "Entering The Kurast Docks",
     "zhTW": "進入庫拉斯特港口",
     "deDE": "Jetzt: Die Docks von Kurast",
     "esES": "Entrando en los Muelles de Kurast",
@@ -5918,7 +5918,7 @@
   {
     "id": 22835,
     "Key": "EnteringTheSpiderForest",
-    "enUS": "Entering The Spider Forest (21|49|79)",
+    "enUS": "Entering The Spider Forest",
     "zhTW": "進入蜘蛛森林",
     "deDE": "Jetzt: Der Spinnenwald",
     "esES": "Entrando en el Bosque de Arañas",
@@ -5935,7 +5935,7 @@
   {
     "id": 22836,
     "Key": "EnteringTheGreatMarsh",
-    "enUS": "Entering The Great Marsh (21|50|80)",
+    "enUS": "Entering The Great Marsh",
     "zhTW": "進入大沼澤",
     "deDE": "Jetzt: Das Große Moor",
     "esES": "Entrando en el Gran Pantano",
@@ -5952,7 +5952,7 @@
   {
     "id": 22837,
     "Key": "EnteringTheFlayerJungle",
-    "enUS": "Entering The Flayer Jungle (22|50|80)",
+    "enUS": "Entering The Flayer Jungle",
     "zhTW": "進入剝皮叢林",
     "deDE": "Jetzt: Der Schinderdschungel",
     "esES": "Entrando en la Selva Desolladora",
@@ -5969,7 +5969,7 @@
   {
     "id": 22838,
     "Key": "EnteringLowerKurast",
-    "enUS": "Entering Lower Kurast (22|52|80)",
+    "enUS": "Entering Lower Kurast",
     "zhTW": "進入庫拉斯特下層",
     "deDE": "Jetzt: Unterkurast",
     "esES": "Entrando en la Parte Baja de Kurast",
@@ -5986,7 +5986,7 @@
   {
     "id": 22839,
     "Key": "EnteringTheKurastBazaar",
-    "enUS": "Entering The Kurast Bazaar (22|52|81)",
+    "enUS": "Entering The Kurast Bazaar",
     "zhTW": "進入庫拉斯特市集",
     "deDE": "Jetzt: Der Basar von Kurast",
     "esES": "Entrando en el Bazar de Kurast",
@@ -6003,7 +6003,7 @@
   {
     "id": 22840,
     "Key": "EnteringUpperKurast",
-    "enUS": "Entering Upper Kurast (23|52|81)",
+    "enUS": "Entering Upper Kurast",
     "zhTW": "進入庫拉斯特上層",
     "deDE": "Jetzt: Oberkurast",
     "esES": "Entrando en la Parte Alta de Kurast",
@@ -6020,7 +6020,7 @@
   {
     "id": 22841,
     "Key": "EnteringTheKurastCauseway",
-    "enUS": "Entering The Kurast Causeway (24|53|81)",
+    "enUS": "Entering The Kurast Causeway",
     "zhTW": "進入庫拉斯特堤道",
     "deDE": "Jetzt: Der Damm von Kurast",
     "esES": "Entrando en la Calzada de Kurast",
@@ -6037,7 +6037,7 @@
   {
     "id": 22842,
     "Key": "EnteringTravincal",
-    "enUS": "Entering Travincal (24|54|82)",
+    "enUS": "Entering Travincal",
     "zhTW": "進入崔凡克",
     "deDE": "Jetzt: Travincal",
     "esES": "Entrando en Travincal",
@@ -6054,7 +6054,7 @@
   {
     "id": 22843,
     "Key": "EnteringTheSpiderCave",
-    "enUS": "Entering The Arachnid Lair (21|50|85)",
+    "enUS": "Entering The Arachnid Lair",
     "zhTW": "進入蜘蛛巢穴",
     "deDE": "Jetzt: Die Spinnenmonstergruft",
     "esES": "Entrando en el Cubil Arácnido",
@@ -6071,7 +6071,7 @@
   {
     "id": 22844,
     "Key": "EnteringTheSpiderCavern",
-    "enUS": "Entering The Spider Cavern (21|50|79)",
+    "enUS": "Entering The Spider Cavern",
     "zhTW": "進入蜘蛛洞窟",
     "deDE": "Jetzt: Die Spinnenhöhle",
     "esES": "Entrando en la Caverna de Arañas",
@@ -6088,7 +6088,7 @@
   {
     "id": 22845,
     "Key": "EnteringTheSwampyPitLevel1",
-    "enUS": "Entering The Swampy Pit Level 1 (21|51|85)",
+    "enUS": "Entering The Swampy Pit Level 1",
     "zhTW": "進入沼澤地穴第一層",
     "deDE": "Jetzt: Das Sumpfloch, Ebene 1",
     "esES": "Entrando en el nivel 1 del Foso Pantanoso",
@@ -6105,7 +6105,7 @@
   {
     "id": 22846,
     "Key": "EnteringTheSwampyPitLevel2",
-    "enUS": "Entering The Swampy Pit Level 2 (21|51|85)",
+    "enUS": "Entering The Swampy Pit Level 2",
     "zhTW": "進入沼澤地穴第二層",
     "deDE": "Jetzt: Das Sumpfloch, Ebene 2",
     "esES": "Entrando en el nivel 2 del Foso Pantanoso",
@@ -6122,7 +6122,7 @@
   {
     "id": 22847,
     "Key": "EnteringTheFlayerDungeonLevel1",
-    "enUS": "Entering The Flayer Dungeon Level 1 (22|51|81)",
+    "enUS": "Entering The Flayer Dungeon Level 1",
     "zhTW": "進入剝皮地牢第一層",
     "deDE": "Jetzt: Der Schinderdungeon, Ebene 1",
     "esES": "Entrando en el nivel 1 de la Mazmorra de Desollamiento",
@@ -6139,7 +6139,7 @@
   {
     "id": 22848,
     "Key": "EnteringTheFlayerDungeonLevel2",
-    "enUS": "Entering The Flayer Dungeon Level 2 (22|51|82)",
+    "enUS": "Entering The Flayer Dungeon Level 2",
     "zhTW": "進入剝皮地牢第二層",
     "deDE": "Jetzt: Der Schinderdungeon, Ebene 2",
     "esES": "Entrando en el nivel 2 de la Mazmorra de Desollamiento",
@@ -6156,7 +6156,7 @@
   {
     "id": 22849,
     "Key": "EnteringTheSwampyPitLevel3",
-    "enUS": "Entering The Swampy Pit Level 3 (21|51|85)",
+    "enUS": "Entering The Swampy Pit Level 3",
     "zhTW": "進入沼澤地穴第三層",
     "deDE": "Jetzt: Das Sumpfloch, Ebene 3",
     "esES": "Entrando en el nivel 3 del Foso Pantanoso",
@@ -6173,7 +6173,7 @@
   {
     "id": 22850,
     "Key": "EnteringTheFlayerDungeonLevel3",
-    "enUS": "Entering The Flayer Dungeon Level 3 (22|51|83)",
+    "enUS": "Entering The Flayer Dungeon Level 3",
     "zhTW": "進入剝皮地牢第三層",
     "deDE": "Jetzt: Der Schinderdungeon, Ebene 3",
     "esES": "Entrando en el nivel 3 de la Mazmorra de Desollamiento",
@@ -6190,7 +6190,7 @@
   {
     "id": 22853,
     "Key": "EnteringTheRuinedTemple",
-    "enUS": "Entering The Ruined Temple (23|53|85)",
+    "enUS": "Entering The Ruined Temple",
     "zhTW": "進入荒廢的神殿",
     "deDE": "Jetzt: Der Zerfallene Tempel",
     "esES": "Entrando en el Templo en Ruinas",
@@ -6207,7 +6207,7 @@
   {
     "id": 22854,
     "Key": "EnteringTheDisusedFane",
-    "enUS": "Entering The Disused Fane (23|53|85)",
+    "enUS": "Entering The Disused Fane",
     "zhTW": "進入廢棄的寺院",
     "deDE": "Jetzt: Das Verlassene Heiligtum",
     "esES": "Entrando en el Fano Abandonado",
@@ -6224,7 +6224,7 @@
   {
     "id": 22855,
     "Key": "EnteringTheForgottenReliquary",
-    "enUS": "Entering The Forgotten Reliquary (23|53|85)",
+    "enUS": "Entering The Forgotten Reliquary",
     "zhTW": "進入遺忘的聖殿",
     "deDE": "Jetzt: Der Vergessene Reliquienschrein",
     "esES": "Entrando en el Relicario Olvidado",
@@ -6241,7 +6241,7 @@
   {
     "id": 22856,
     "Key": "EnteringTheForgottenTemple",
-    "enUS": "Entering The Forgotten Temple (24|54|85)",
+    "enUS": "Entering The Forgotten Temple",
     "zhTW": "進入遺忘神殿",
     "deDE": "Jetzt: Der Vergessene Tempel",
     "esES": "Entrando en el Templo Olvidado",
@@ -6258,7 +6258,7 @@
   {
     "id": 22857,
     "Key": "EnteringTheRuinedFane",
-    "enUS": "Entering The Ruined Fane (24|54|85)",
+    "enUS": "Entering The Ruined Fane",
     "zhTW": "進入荒廢的寺院",
     "deDE": "Jetzt: Das Zerfallene Heiligtum",
     "esES": "Entrando en el Fano en Ruinas",
@@ -6275,7 +6275,7 @@
   {
     "id": 22858,
     "Key": "EnteringTheDisusedReliquary",
-    "enUS": "Entering The Disused Reliquary (24|54|85)",
+    "enUS": "Entering The Disused Reliquary",
     "zhTW": "進入廢棄的聖殿",
     "deDE": "Jetzt: Der Verlassene Reliquienschrein",
     "esES": "Entrando en el Relicario Abandonado",
@@ -6292,7 +6292,7 @@
   {
     "id": 22859,
     "Key": "EnteringTheDuranceOfHateLevel1",
-    "enUS": "Entering The Durance of Hate Level 1 (25|55|83)",
+    "enUS": "Entering The Durance of Hate Level 1",
     "zhTW": "進入憎恨囚牢第一層",
     "deDE": "Jetzt: Der Kerker des Hasses, Ebene 1",
     "esES": "Entrando en el nivel 1 de la Represión del Odio",
@@ -6309,7 +6309,7 @@
   {
     "id": 22860,
     "Key": "EnteringTheDuranceOfHateLevel2",
-    "enUS": "Entering The Durance of Hate Level 2 (25|55|83)",
+    "enUS": "Entering The Durance of Hate Level 2",
     "zhTW": "進入憎恨囚牢第二層",
     "deDE": "Jetzt: Der Kerker des Hasses, Ebene 2",
     "esES": "Entrando en el nivel 2 de la Represión del Odio",
@@ -6326,7 +6326,7 @@
   {
     "id": 22861,
     "Key": "EnteringTheDuranceOfHateLevel3",
-    "enUS": "Entering The Durance of Hate Level 3 (25|55|83)",
+    "enUS": "Entering The Durance of Hate Level 3",
     "zhTW": "進入憎恨囚牢第三層",
     "deDE": "Jetzt: Der Kerker des Hasses, Ebene 3",
     "esES": "Entrando en el nivel 3 de la Represión del Odio",
@@ -6343,7 +6343,7 @@
   {
     "id": 22862,
     "Key": "EnteringThePandemoniumFortress",
-    "enUS": "",
+    "enUS": "Entering The Pandemonium Fortress",
     "zhTW": "進入混沌界要塞",
     "deDE": "Jetzt: Die Festung des Wahnsinns",
     "esES": "Entrando en la Fortaleza del Pandemónium",
@@ -6360,7 +6360,7 @@
   {
     "id": 22863,
     "Key": "EnteringTheOuterSteppes",
-    "enUS": "Entering The Outer Steppes (26|56|82)",
+    "enUS": "Entering The Outer Steppes",
     "zhTW": "進入外圍荒原",
     "deDE": "Jetzt: Die Äußere Steppe",
     "esES": "Entrando en las Estepas Exteriores",
@@ -6377,7 +6377,7 @@
   {
     "id": 22864,
     "Key": "EnteringThePlainsOfDespair",
-    "enUS": "Entering The Plains of Despair (26|56|82)",
+    "enUS": "Entering The Plains of Despair",
     "zhTW": "進入絕望平原",
     "deDE": "Jetzt: Die Ebene der Verzweiflung",
     "esES": "Entrando en las Llanuras del Desaliento",
@@ -6394,7 +6394,7 @@
   {
     "id": 22865,
     "Key": "EnteringTheCityOfTheDamned",
-    "enUS": "Entering The City of the Damned (27|56|82)",
+    "enUS": "Entering The City of the Damned",
     "zhTW": "進入罪罰之城",
     "deDE": "Jetzt: Die Stadt der Verdammten",
     "esES": "Entrando en la Ciudad de los Malditos",
@@ -6411,7 +6411,7 @@
   {
     "id": 22866,
     "Key": "EnteringTheRiverOfFlame",
-    "enUS": "Entering The River of Flame (27|57|85)",
+    "enUS": "Entering The River of Flame",
     "zhTW": "進入火焰之河",
     "deDE": "Jetzt: Der Flammenfluss",
     "esES": "Entrando en el Río de Llamas",
@@ -6428,7 +6428,7 @@
   {
     "id": 22867,
     "Key": "EnteringChaosSanctum",
-    "enUS": "Entering Chaos Sanctuary (28|58|85)",
+    "enUS": "Entering Chaos Sanctuary",
     "zhTW": "進入混沌魔殿",
     "deDE": "Jetzt: Das Chaossanktuarium",
     "esES": "Entrando en el Santuario del Caos",
@@ -6445,7 +6445,7 @@
   {
     "id": 22868,
     "Key": "EnteringHarrogath",
-    "enUS": "",
+    "enUS": "Entering Harrogath",
     "zhTW": "進入哈洛加斯",
     "deDE": "Jetzt: Harrogath",
     "esES": "Entrando en Harrogath",
@@ -6462,7 +6462,7 @@
   {
     "id": 22869,
     "Key": "EnteringTheBloodyFoothills",
-    "enUS": "Entering The Bloody Foothills (24|58|80)",
+    "enUS": "Entering The Bloody Foothills",
     "zhTW": "進入血腥丘陵",
     "deDE": "Jetzt: Das Blutige Vorgebirge",
     "esES": "Entrando en las Estribaciones Sangrientas",
@@ -6479,7 +6479,7 @@
   {
     "id": 22870,
     "Key": "EnteringTheRigidHighlands",
-    "enUS": "Entering The Frigid Highlands (25|59|81)",
+    "enUS": "Entering The Frigid Highlands",
     "zhTW": "進入冰凍高地",
     "deDE": "Jetzt: Das Eishochland",
     "esES": "Entrando en las Tierras Altas Glaciales",
@@ -6496,7 +6496,7 @@
   {
     "id": 22871,
     "Key": "EnteringTheArreatPlateau",
-    "enUS": "Entering The Arreat Plateau (26|60|81)",
+    "enUS": "Entering The Arreat Plateau",
     "zhTW": "進入亞瑞特高原",
     "deDE": "Jetzt: Die Arreathochebene",
     "esES": "Entrando en la Meseta Arreat",
@@ -6513,7 +6513,7 @@
   {
     "id": 22872,
     "Key": "EnteringTheCrystalizedCavernLevel1",
-    "enUS": "Entering The Crystalline Passage (29|61|82)",
+    "enUS": "Entering The Crystalline Passage",
     "zhTW": "進入水晶通道",
     "deDE": "Jetzt: Der Kristalldurchgang",
     "esES": "Entrando en el Pasaje Cristalino",
@@ -6530,7 +6530,7 @@
   {
     "id": 22873,
     "Key": "EnteringTheCellarOfPity",
-    "enUS": "Entering The Frozen River (29|61|83)",
+    "enUS": "Entering The Frozen River",
     "zhTW": "進入冰凍之河",
     "deDE": "Jetzt: Der Frostfluss",
     "esES": "Entrando en el Río Helado",
@@ -6547,7 +6547,7 @@
   {
     "id": 22874,
     "Key": "EnteringTheCrystalizedCavernLevel2",
-    "enUS": "Entering The Glacial Trail (29|61|83)",
+    "enUS": "Entering The Glacial Trail",
     "zhTW": "進入冰河小徑",
     "deDE": "Jetzt: Der Gletscherweg",
     "esES": "Entrando en la Senda Glacial",
@@ -6564,7 +6564,7 @@
   {
     "id": 22875,
     "Key": "EnteringTheEchoChamber",
-    "enUS": "Entering The Drifter Cavern (29|61|85)",
+    "enUS": "Entering The Drifter Cavern",
     "zhTW": "進入漂泊者洞窟",
     "deDE": "Jetzt: Die Flockenhöhle",
     "esES": "Entrando en la Caverna del Errante",
@@ -6581,7 +6581,7 @@
   {
     "id": 22876,
     "Key": "EnteringTheTundraWastelands",
-    "enUS": "Entering The Frozen Tundra (27|60|81)",
+    "enUS": "Entering The Frozen Tundra",
     "zhTW": "進入冰凍苔原",
     "deDE": "Jetzt: Die Gefrorene Tundra",
     "esES": "Entrando en la Tundra Helada",
@@ -6598,7 +6598,7 @@
   {
     "id": 22877,
     "Key": "EnteringTheGlacierCavesLevel1",
-    "enUS": "Entering The Ancients' Way (29|62|82)",
+    "enUS": "Entering The Ancients' Way",
     "zhTW": "進入先祖之路",
     "deDE": "Jetzt: Der Weg der Urahnen",
     "esES": "Entrando en el Camino de los Antiguos",
@@ -6615,7 +6615,7 @@
   {
     "id": 22878,
     "Key": "EnteringTheGlacierCavesLevel2",
-    "enUS": "Entering The Icy Cellar (29|62|85)",
+    "enUS": "Entering The Icy Cellar",
     "zhTW": "進入冰窖",
     "deDE": "Jetzt: Der Eiskeller",
     "esES": "Entrando en el Sótano Helado",
@@ -6632,7 +6632,7 @@
   {
     "id": 22879,
     "Key": "EnteringTheRockySummit",
-    "enUS": "Entering The Arreat Summit (37|68|87)",
+    "enUS": "Entering The Arreat Summit",
     "zhTW": "進入亞瑞特山巔",
     "deDE": "Jetzt: Der Gipfel des Arreat",
     "esES": "Entrando en la Cima Arreat",
@@ -6649,7 +6649,7 @@
   {
     "id": 22880,
     "Key": "EnteringNihlathaksTemple",
-    "enUS": "Entering Nihlathak's Temple (32|63|83)",
+    "enUS": "Entering Nihlathak's Temple",
     "zhTW": "進入尼拉塞克的神殿",
     "deDE": "Jetzt: Nihlathaks Tempel",
     "esES": "Entrando en el Templo de Nihlathak",
@@ -6666,7 +6666,7 @@
   {
     "id": 22881,
     "Key": "EnteringTheHallsOfAnguish",
-    "enUS": "Entering The Halls of Anguish (33|63|83)",
+    "enUS": "Entering The Halls of Anguish",
     "zhTW": "進入怨慟之廳",
     "deDE": "Jetzt: Die Hallen der Qual",
     "esES": "Entrando en las Salas de la Angustia",
@@ -6683,7 +6683,7 @@
   {
     "id": 22882,
     "Key": "EnteringTheHallsOfDeath'sCalling",
-    "enUS": "Entering The Halls of Pain (34|64|84)",
+    "enUS": "Entering The Halls of Pain",
     "zhTW": "進入苦痛之廳",
     "deDE": "Jetzt: Die Hallen der Schmerzen",
     "esES": "Entrando en las Salas del Dolor",
@@ -6700,7 +6700,7 @@
   {
     "id": 22883,
     "Key": "EnteringTheHallsOfVaught",
-    "enUS": "Entering The Halls of Vaught (36|64|84)",
+    "enUS": "Entering The Halls of Vaught",
     "zhTW": "進入沃特之廳",
     "deDE": "Jetzt: Die Hallen von Vaught",
     "esES": "Entrando en las Salas de Vaught",
@@ -6717,7 +6717,7 @@
   {
     "id": 22884,
     "Key": "EnteringHell1",
-    "enUS": "Entering Abaddon (39|60|85)",
+    "enUS": "Entering Abaddon",
     "zhTW": "進入亞巴頓",
     "deDE": "Jetzt: Abaddon",
     "esES": "Entrando en Abaddon",
@@ -6734,7 +6734,7 @@
   {
     "id": 22885,
     "Key": "EnteringHell2",
-    "enUS": "Entering The Pit of Acheron (39|61|85)",
+    "enUS": "Entering The Pit of Acheron",
     "zhTW": "進入冥河地穴",
     "deDE": "Jetzt: Die Grube von Acheron",
     "esES": "Entrando en el Foso de Acheron",
@@ -6751,7 +6751,7 @@
   {
     "id": 22886,
     "Key": "EnteringHell3",
-    "enUS": "Entering The Infernal Pit (39|62|85)",
+    "enUS": "Entering The Infernal Pit",
     "zhTW": "進入煉獄地穴",
     "deDE": "Jetzt: Die Infernogrube",
     "esES": "Entrando en el Foso Infernal",
@@ -6768,7 +6768,7 @@
   {
     "id": 22887,
     "Key": "EnteringTheWorldstoneKeepLevel1",
-    "enUS": "Entering The Worldstone Keep Level 1 (39|65|85)",
+    "enUS": "Entering The Worldstone Keep Level 1",
     "zhTW": "進入世界之石要塞第一層",
     "deDE": "Jetzt: Der Weltsteinturm, Ebene 1",
     "esES": "Entrando en el nivel 1 de la Torre de la Piedra del Mundo",
@@ -6785,7 +6785,7 @@
   {
     "id": 22888,
     "Key": "EnteringTheWorldstoneKeepLevel2",
-    "enUS": "Entering The Worldstone Keep Level 2 (40|65|85)",
+    "enUS": "Entering The Worldstone Keep Level 2",
     "zhTW": "進入世界之石要塞第二層",
     "deDE": "Jetzt: Der Weltsteinturm, Ebene 2",
     "esES": "Entrando en el nivel 2 de la Torre de la Piedra del Mundo",
@@ -6802,7 +6802,7 @@
   {
     "id": 22889,
     "Key": "EnteringTheWorldstoneKeepLevel3",
-    "enUS": "Entering The Worldstone Keep Level 3 (42|66|85)",
+    "enUS": "Entering The Worldstone Keep Level 3",
     "zhTW": "進入世界之石要塞第三層",
     "deDE": "Jetzt: Der Weltsteinturm, Ebene 3",
     "esES": "Entrando en el nivel 3 de la Torre de la Piedra del Mundo",
@@ -6819,7 +6819,7 @@
   {
     "id": 22890,
     "Key": "EnteringTheThroneOfDestruction",
-    "enUS": "Entering The Throne of Destruction (43|66|85)",
+    "enUS": "Entering The Throne of Destruction",
     "zhTW": "進入毀滅王座",
     "deDE": "Jetzt: Der Thron der Zerstörung",
     "esES": "Entrando en el Trono de la Destrucción",
@@ -6836,7 +6836,7 @@
   {
     "id": 22891,
     "Key": "EnteringTheWorldstoneChamber",
-    "enUS": "Entering The Worldstone Chamber (43|66|85)",
+    "enUS": "Entering The Worldstone Chamber",
     "zhTW": "進入世界之石大殿",
     "deDE": "Jetzt: Die Kammer des Weltsteins",
     "esES": "Entrando en la Cámara de la Piedra del Mundo",
@@ -6853,7 +6853,7 @@
   {
     "id": 22892,
     "Key": "EnteringThePandemoniumRun1",
-    "enUS": "Entering The Matron's Den (83)",
+    "enUS": "Entering The Matron's Den",
     "zhTW": "進入魔母巢穴",
     "deDE": "Jetzt: Die Matronenhöhle",
     "esES": "Entrando en la Guarida de la Matrona",
@@ -6870,7 +6870,7 @@
   {
     "id": 22893,
     "Key": "EnteringThePandemoniumRun2",
-    "enUS": "Entering The Forgotten Sands (83)",
+    "enUS": "Entering The Forgotten Sands",
     "zhTW": "進入遺忘沙漠",
     "deDE": "Jetzt: Die Vergessenen Sande",
     "esES": "Entrando en las Arenas Olvidadas",
@@ -6887,7 +6887,7 @@
   {
     "id": 22894,
     "Key": "EnteringThePandemoniumRun3",
-    "enUS": "Entering The Furnace of Pain (83)",
+    "enUS": "Entering The Furnace of Pain",
     "zhTW": "進入苦痛熔爐",
     "deDE": "Jetzt: Der Glutofen der Pein",
     "esES": "Entrando en la Caldera del Dolor",
@@ -6904,7 +6904,7 @@
   {
     "id": 22895,
     "Key": "EnteringThePandemoniumFinale",
-    "enUS": "Entering Uber Tristram (83)",
+    "enUS": "Entering Tristram",
     "zhTW": "進入崔斯特姆",
     "deDE": "Jetzt: Tristram",
     "esES": "Entrando en Tristán",
