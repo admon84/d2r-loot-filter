@@ -320,7 +320,7 @@
     "jaJP": "禍々しい",
     "ptBR": "[ms]Letal[mp]Letais[fs]Letal[fp]Letais",
     "ruRU": "[ms]смертоносносный[fs]смертоносносная[ns]смертоносносное[pl]смертоносносные",
-    "zhCN": "致命"
+    "zhCN": "破格"
   },
   {
     "id": 1743,
@@ -1697,7 +1697,7 @@
     "jaJP": "殺戮者が携えし",
     "ptBR": "[fs]Homicidária[ms]Homicidário[fp]Homicidárias[mp]Homicidários",
     "ruRU": "[ms]убийственный[fs]убийственная[ns]убийственное[pl]убийственные",
-    "zhCN": "屠杀者的"
+    "zhCN": "重煞者的"
   },
   {
     "id": 1826,
@@ -2037,7 +2037,7 @@
     "jaJP": "刺突の",
     "ptBR": "da Perfuração",
     "ruRU": "протыкания",
-    "zhCN": "穿刺之"
+    "zhCN": "洞穿之"
   },
   {
     "id": 1847,
@@ -2428,7 +2428,7 @@
     "jaJP": "殺害の",
     "ptBR": "do Homicídio",
     "ruRU": "лишения жизни",
-    "zhCN": "杀戮之"
+    "zhCN": "犯煞之"
   },
   {
     "id": 1870,
@@ -2462,7 +2462,7 @@
     "jaJP": "殺戮の",
     "ptBR": "da Carnificina",
     "ruRU": "кровавой бойни",
-    "zhCN": "残杀之"
+    "zhCN": "克害之"
   },
   {
     "id": 1872,
@@ -2479,7 +2479,7 @@
     "jaJP": "暴虐の",
     "ptBR": "do Massacre",
     "ruRU": "жестокого убийства",
-    "zhCN": "屠戮之"
+    "zhCN": "灭生之"
   },
   {
     "id": 1873,
@@ -3159,7 +3159,7 @@
     "jaJP": "蝗の",
     "ptBR": "do Gafanhoto",
     "ruRU": "саранчи",
-    "zhCN": "血蝗之"
+    "zhCN": "蝗虫之"
   },
   {
     "id": 1913,
@@ -3618,7 +3618,7 @@
     "jaJP": "血濡れた",
     "ptBR": "[ms]Sanguíneo[mp]Sanguíneos[fs]Sanguínea[fp]Sanguíneas",
     "ruRU": "[ms]кровавый[fs]кровавая[ns]кровавое[pl]кровавые",
-    "zhCN": "鲜血"
+    "zhCN": "精华"
   },
   {
     "id": 2289,
@@ -3703,7 +3703,7 @@
     "jaJP": "死の",
     "ptBR": "[ms]Mortal[mp]Mortais[fs]Mortal[fp]Mortais",
     "ruRU": "[ms]смертельный[fs]смертельная[ns]смертельное[pl]смертельные",
-    "zhCN": "死亡"
+    "zhCN": "枯瘪"
   },
   {
     "id": 2294,
@@ -4026,7 +4026,7 @@
     "jaJP": "屍の",
     "ptBR": "Cadáver",
     "ruRU": "[ms]трупный[fs]трупная[ns]трупное[pl]трупные",
-    "zhCN": "尸骸"
+    "zhCN": "残骸"
   },
   {
     "id": 2316,
@@ -4247,7 +4247,7 @@
     "jaJP": "血溝",
     "ptBR": "[fs]Eviscerante",
     "ruRU": "[ms]желоб",
-    "zhCN": "开膛刀"
+    "zhCN": "拆解刀"
   },
   {
     "id": 2330,
@@ -4332,7 +4332,7 @@
     "jaJP": "両断者",
     "ptBR": "[fs]Dilacerante",
     "ruRU": "[ms]расщепитель",
-    "zhCN": "劈裂者"
+    "zhCN": "分肉刀"
   },
   {
     "id": 2336,
@@ -4349,7 +4349,7 @@
     "jaJP": "肉切り",
     "ptBR": "[ms]Cutelo",
     "ruRU": "[ms]колун",
-    "zhCN": "切肉者"
+    "zhCN": "切肉刀"
   },
   {
     "id": 2337,
@@ -4366,7 +4366,7 @@
     "jaJP": "切断者",
     "ptBR": "[fs]Decepadora",
     "ruRU": "[ms]отсекатель",
-    "zhCN": "切割者"
+    "zhCN": "切割刀"
   },
   {
     "id": 2338,
@@ -4434,7 +4434,7 @@
     "jaJP": "殺し",
     "ptBR": "[ms]Homicida",
     "ruRU": "[ms]истребитель",
-    "zhCN": "屠杀者"
+    "zhCN": "重煞者"
   },
   {
     "id": 2342,
@@ -4689,7 +4689,7 @@
     "jaJP": "刺突者",
     "ptBR": "[fs]Empaladora",
     "ruRU": "[ms]пронзатель",
-    "zhCN": "穿刺者"
+    "zhCN": "洞穿者"
   },
   {
     "id": 2358,
@@ -5913,7 +5913,7 @@
     "jaJP": "ブラッド",
     "ptBR": "[ms]Sanguíneo[mp]Sanguíneos[fs]Sanguínea[fp]Sanguíneas",
     "ruRU": "[ms]кровавый[fs]кровавая[ns]кровавое[pl]кровавые",
-    "zhCN": "鲜血"
+    "zhCN": "精华"
   },
   {
     "id": 2733,
@@ -5947,7 +5947,7 @@
     "jaJP": "ガット",
     "ptBR": "[ms]Visceral[mp]Viscerais[fs]Visceral[fp]Viscerais",
     "ruRU": "[ms]нутряной[fs]нутряная[ns]нутряное[pl]нутряные",
-    "zhCN": "剖脏"
+    "zhCN": "内查"
   },
   {
     "id": 2735,
@@ -5981,7 +5981,7 @@
     "jaJP": "フレッシュ",
     "ptBR": "[ms]Cárneo[mp]Cárneos[fs]Cárnea[fp]Cárneas",
     "ruRU": "[ms]мясной[fs]мясная[ns]мясное[pl]мясные",
-    "zhCN": "血肉"
+    "zhCN": "皮脂"
   },
   {
     "id": 2737,
@@ -6015,7 +6015,7 @@
     "jaJP": "スパイン",
     "ptBR": "[ms]Espinhal[mp]Espinhais[fs]Espinhal[fp]Espinhais",
     "ruRU": "[ms]шипастый[fs]шипастая[ns]шипастое[pl]шипастые",
-    "zhCN": "脊骨"
+    "zhCN": "支柱"
   },
   {
     "id": 2739,
@@ -6406,7 +6406,7 @@
     "jaJP": "ハック",
     "ptBR": "[ms]Cortador",
     "ruRU": "[ms]разруб",
-    "zhCN": "劈杀"
+    "zhCN": "挥劈"
   },
   {
     "id": 2762,
@@ -6491,7 +6491,7 @@
     "jaJP": "キル",
     "ptBR": "[fs]Matança",
     "ruRU": "[ns]убиение",
-    "zhCN": "杀戮"
+    "zhCN": "侵害"
   },
   {
     "id": 2767,
@@ -6593,7 +6593,7 @@
     "jaJP": "キラー",
     "ptBR": "[ms]Matador",
     "ruRU": "[ms]душегуб",
-    "zhCN": "杀戮者"
+    "zhCN": "侵害者"
   },
   {
     "id": 2773,
@@ -6627,7 +6627,7 @@
     "jaJP": "ドリンカー",
     "ptBR": "[ms]Bebedor",
     "ruRU": "[ms]бражник",
-    "zhCN": "饮血者"
+    "zhCN": "饮者"
   },
   {
     "id": 2775,
@@ -6695,7 +6695,7 @@
     "jaJP": "ベンダー",
     "ptBR": "[ms]Vergador",
     "ruRU": "[ms]исказитель",
-    "zhCN": "酗酒者"
+    "zhCN": "甜饮者"
   },
   {
     "id": 2779,
@@ -6729,7 +6729,7 @@
     "jaJP": "イーター",
     "ptBR": "[ms]Devorador",
     "ruRU": "[ms]едок",
-    "zhCN": "食人者"
+    "zhCN": "食肉者"
   },
   {
     "id": 2781,
@@ -7477,7 +7477,7 @@
     "jaJP": "ラスト",
     "ptBR": "[fs]Luxúria",
     "ruRU": "[fs]похоть",
-    "zhCN": "邪淫者"
+    "zhCN": "强欲"
   },
   {
     "id": 2825,
@@ -7511,7 +7511,7 @@
     "jaJP": "斧の",
     "ptBR": ", o Machado",
     "ruRU": "Топор",
-    "zhCN": "巨斧手·"
+    "zhCN": "巨斧·"
   },
   {
     "id": 2827,
@@ -7528,7 +7528,7 @@
     "jaJP": "鋭き",
     "ptBR": ", o Afiado",
     "ruRU": "Порез",
-    "zhCN": "尖锋者·"
+    "zhCN": "尖锋·"
   },
   {
     "id": 2828,
@@ -7545,7 +7545,7 @@
     "jaJP": "鋸歯の",
     "ptBR": ", o Serrilhado",
     "ruRU": "Зубец",
-    "zhCN": "尖刺者·"
+    "zhCN": "尖刺·"
   },
   {
     "id": 2829,
@@ -7562,7 +7562,7 @@
     "jaJP": "皮剥ぐ",
     "ptBR": ", o Esfolador",
     "ruRU": "Свежеватель",
-    "zhCN": "剥皮者·"
+    "zhCN": "剥离者·"
   },
   {
     "id": 2830,
@@ -7579,7 +7579,7 @@
     "jaJP": "切り裂く",
     "ptBR": ", o Retalhador",
     "ruRU": "Кромсатель",
-    "zhCN": "斩击者·"
+    "zhCN": "斩击·"
   },
   {
     "id": 2831,
@@ -7596,7 +7596,7 @@
     "jaJP": "貫く者",
     "ptBR": ", o Empalador",
     "ruRU": "Пронзатель",
-    "zhCN": "穿刺者·"
+    "zhCN": "洞穿·"
   },
   {
     "id": 2832,
@@ -7613,7 +7613,7 @@
     "jaJP": "狩る者",
     "ptBR": ", o Caçador",
     "ruRU": "Охотник",
-    "zhCN": "猎杀者·"
+    "zhCN": "猎手·"
   },
   {
     "id": 2833,
@@ -7630,7 +7630,7 @@
     "jaJP": "殺戮者",
     "ptBR": ", o Homicida",
     "ruRU": "Убийца",
-    "zhCN": "屠戮者·"
+    "zhCN": "灭生者·"
   },
   {
     "id": 2834,
@@ -7766,7 +7766,7 @@
     "jaJP": "死せる",
     "ptBR": ", o Morto",
     "ruRU": "Мертвец",
-    "zhCN": "亡尸·"
+    "zhCN": "残骸·"
   },
   {
     "id": 2842,
@@ -7783,7 +7783,7 @@
     "jaJP": "忌まわしき",
     "ptBR": ", o Profano",
     "ruRU": "Нечисть",
-    "zhCN": "邪秽者·"
+    "zhCN": "不义者·"
   },
   {
     "id": 2843,
@@ -8276,7 +8276,7 @@
     "jaJP": "魔術師殺しが携えし",
     "ptBR": "[fs]Antimagos[ms]Antimagos[fp]Antimagos[mp]Antimagos",
     "ruRU": "[ms]магоубийственный[fs]магоубийственная[ns]магоубийственное[pl]магоубийственные",
-    "zhCN": "法师杀手的"
+    "zhCN": "法师克星的"
   },
   {
     "id": 20702,
@@ -9585,7 +9585,7 @@
     "jaJP": "墓泥棒が携えし",
     "ptBR": "[fs]Profana-túmulos[ms]Profana-túmulos[fp]Profana-túmulos[mp]Profana-túmulos",
     "ruRU": "[ms]расхитительский[fs]расхитительская[ns]расхитительское[pl]расхитительские",
-    "zhCN": "盗墓者的"
+    "zhCN": "挖掘者的"
   },
   {
     "id": 20779,
@@ -10707,7 +10707,7 @@
     "jaJP": "血塗れた",
     "ptBR": "[ms]Sangrento[mp]Sangrentos[fs]Sangrenta[fp]Sangrentas",
     "ruRU": "[ms]залитый кровью[fs]залитая кровью[ns]залитое кровью[pl]залитые кровью",
-    "zhCN": "血红"
+    "zhCN": "赤霄"
   },
   {
     "id": 20845,
@@ -12968,7 +12968,7 @@
     "jaJP": "ランプリィの",
     "ptBR": "da Lampreia",
     "ruRU": "со знаком миноги",
-    "zhCN": "血鳗之"
+    "zhCN": "鳗鱼之"
   },
   {
     "id": 20978,
@@ -13410,7 +13410,7 @@
     "jaJP": "腹裂きの",
     "ptBR": "da Evisceração",
     "ruRU": "свежевания",
-    "zhCN": "开膛之"
+    "zhCN": "拆解之"
   },
   {
     "id": 21004,
@@ -13427,7 +13427,7 @@
     "jaJP": "虐殺の",
     "ptBR": "da Matança",
     "ruRU": "мясника",
-    "zhCN": "屠夫之"
+    "zhCN": "精切之"
   },
   {
     "id": 21005,
@@ -14736,7 +14736,7 @@
     "jaJP": "不徳の",
     "ptBR": "do Obsceno",
     "ruRU": "беспутства",
-    "zhCN": "淫秽之"
+    "zhCN": "激欲之"
   },
   {
     "id": 21082,
@@ -15161,7 +15161,7 @@
     "jaJP": "窃盗の",
     "ptBR": "do Furto",
     "ruRU": "воровства",
-    "zhCN": "偷窃之"
+    "zhCN": "顺物之"
   },
   {
     "id": 21107,
@@ -15603,7 +15603,7 @@
     "jaJP": "祝福の鎚の",
     "ptBR": "do Martelo Abençoado",
     "ruRU": "освященного молота",
-    "zhCN": "祝福之锤之"
+    "zhCN": "祝福锤之"
   },
   {
     "id": 21133,
@@ -15841,7 +15841,7 @@
     "jaJP": "ブラッドゴーレムの",
     "ptBR": "do Golem de Sangue",
     "ruRU": "кровяного голема",
-    "zhCN": "鲜血傀儡之"
+    "zhCN": "精华傀儡之"
   },
   {
     "id": 21147,
@@ -16946,7 +16946,7 @@
     "jaJP": "ガルガンチュアの",
     "ptBR": "do Gargântua",
     "ruRU": "исполина",
-    "zhCN": "僵尸巨兽之"
+    "zhCN": "邪身巨兽之"
   },
   {
     "id": 21814,
