@@ -83,6 +83,19 @@
     },
     {
       "type": "Entity",
+      "name": "entity_root",
+      "id": 9999999992,
+      "components": [
+        {
+          "type": "VfxDefinitionComponent",
+          "name": "entity_root_VfxDefinition",
+          "filename": "data/hd/vfx/particles/overlays/paladin/aura_fanatic/aura_fanatic.particles",
+          "hardKillOnDestroy": false
+        }
+      ]
+    },
+    {
+      "type": "Entity",
       "name": "droplight",
       "id": 9999999993,
       "components": [
